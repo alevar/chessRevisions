@@ -1,0 +1,1179 @@
+Status	Gene_ID	Location	NR_blast_Eval	NR_hit	SP_blast_Eval	SP_hit
+discard	CHS.10012	chr11:113875694-113899029:+	1e-17	CAE91339.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.10056	chr11:116307531-116308521:+	3e-22	CAE89781.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.1008	chr1:29124945-29139372:+	4e-19	EAW78405.1, hCG2021310 [Homo sapiens]	-	-
+non-coding	CHS.10158	chr11:119057437-119059239:+	4e-81	BAC85254.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.10242	chr11:121958716-121961024:+	2e-16	AAL23680.1, non-small cell lung cancer RimL3b protein, partial [Homo sapiens]	-	-
+coding	CHS.10342	chr11:125436730-125444466:-	3e-80	EAW67635.1, hCG2032746 [Homo sapiens]	-	-
+non-coding	CHS.10505	chr11:134551785-134556172:-	2e-16	CAF15934.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.10511	chr11:134951577-134976082:-	2e-17	XP_016824944.1, PREDICTED: uncharacterized protein LOC107978944 isoform X1 [Cricetulus griseus]	-	-
+discard	CHS.10606	chr12:41224-43313:-	5e-85	AAK08113.1, FKSG69 [Homo sapiens]	-	-
+discard	CHS.10607	chr12:42215-43326:+	3e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.10618	chr12:218949-220508:-	2e-176	XP_016778196.1, PREDICTED: uncharacterized protein LOC107967395 [Pan troglodytes]	-	-
+discard	CHS.10649	chr12:1649031-1659981:-	2e-20	CAD69798.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.10686	chr12:2944010-2951143:+	6e-44	CAD69516.1, unnamed protein product [Homo sapiens]	1.20e-33	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.10722	chr12:4460244-4484438:-	4e-29	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	2.27e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.10863	chr12:7977821-7980584:-	4e-28	EHH64004.1, hypothetical protein EGM_17106, partial [Macaca fascicularis]	1.87e-20	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.10864	chr12:7978870-7981618:+	6e-17	EHH15138.1, hypothetical protein EGK_01187, partial [Macaca mulatta]	-	-
+discard	CHS.10865	chr12:8019226-8031945:-	3e-27	XP_011506841.1, PREDICTED: putative uncharacterized protein encoded by LINC00596, partial [Homo sapiens]	-	-
+discard	CHS.10867	chr12:8030055-8032610:+	4e-19	CAE92165.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.11260	chr12:27017041-27022415:-	2e-24	EAW54808.1, hCG2038449, partial [Homo sapiens]	-	-
+discard	CHS.11514	chr12:48330701-48332934:-	2e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.11569	chr12:49536677-49538804:-	9e-44	EHH59362.1, hypothetical protein EGM_09449, partial [Macaca fascicularis]	2.46e-34	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.11637	chr12:51813183-51814957:-	0.0	EAW58204.1, hCG1648055 [Homo sapiens]	-	-
+non-coding	CHS.11643	chr12:51857665-51858073:-	4e-31	EHH16997.1, hypothetical protein EGK_13278, partial [Macaca mulatta]	5.23e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.1166	chr1:34948445-34948924:+	4e-44	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.1172	chr1:35116504-35118822:-	3e-33	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+discard	CHS.11841	chr12:55740329-55743013:-	3e-17	BAE89731.1, unnamed protein product [Macaca fascicularis]	-	-
+discard	CHS.11864	chr12:56074865-56076840:-	1e-40	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.1187	chr1:35642124-35644363:+	2e-21	BAB21923.1, hypothetical protein [Macaca fascicularis]	-	-
+discard	CHS.1189	chr1:35692336-35707698:-	4e-27	BAB70813.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.11895	chr12:56518895-56519805:-	2e-22	EHH15638.1, hypothetical protein EGK_01753, partial [Macaca mulatta]	1.82e-23	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.11903	chr12:56694611-56712348:+	3e-22	CAE98892.1, unnamed protein product, partial [Homo sapiens]	8.82e-17	sp|A0A096LPI5|GVQW2_HUMAN, Protein GVQW2 OS=Homo sapiens GN=GVQW2 PE=4 SV=1
+non-coding	CHS.11958	chr12:57642708-57643521:+	8e-39	EHH20263.1, hypothetical protein EGK_03078, partial [Macaca mulatta]	5.48e-26	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.12	chr1:352749-356597:-	1e-51	EAW51440.1, hCG15392, isoform CRA_a [Homo sapiens]	-	-
+non-coding	CHS.1252	chr1:37791468-37793391:-	3e-16	EAX08724.1, hCG2038303, partial [Homo sapiens]	-	-
+discard	CHS.12531	chr12:98551553-98589338:-	8e-28	XP_003832768.1, PREDICTED: putative uncharacterized protein encoded by LINC00596 [Pan paniscus]	6.23e-16	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.12732	chr12:109778377-109782796:+	9e-25	EHH22084.1, hypothetical protein EGK_05279, partial [Macaca mulatta]	2.62e-21	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+non-coding	CHS.1291	chr1:39064305-39072725:+	2e-19	XP_017715572.1, PREDICTED: putative uncharacterized protein encoded by LINC00269, partial [Rhinopithecus bieti]	-	-
+discard	CHS.12964	chr12:120283365-120286881:-	3e-25	CAE98892.1, unnamed protein product, partial [Homo sapiens]	1.19e-17	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.13016	chr12:121597268-121601725:+	3e-31	CAF17222.1, unnamed protein product, partial [Homo sapiens]	7.67e-16	sp|Q96CB5|CH044_HUMAN, Putative uncharacterized protein C8orf44 OS=Homo sapiens GN=C8orf44 PE=2 SV=2
+discard	CHS.13019	chr12:121597299-121601704:-	3e-25	CAD69516.1, unnamed protein product [Homo sapiens]	7.32e-22	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.1302	chr1:39588026-39620353:-	4e-19	EAX06569.1, KIAA1799 protein, isoform CRA_b [Homo sapiens]	-	-
+discard	CHS.13067	chr12:122731114-122733519:-	4e-34	EAW81162.1, hCG1814203 [Homo sapiens]	-	-
+non-coding	CHS.13075	chr12:122902328-122913246:+	2e-51	CAD69798.1, unnamed protein product [Homo sapiens]	4.34e-18	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.13093	chr12:123443771-123450666:-	2e-18	CAE92120.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.13095	chr12:123446550-123447907:-	2e-28	EHH51808.1, hypothetical protein EGM_11255, partial [Macaca fascicularis]	1.88e-20	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.13205	chr12:127351728-127359194:+	5e-22	EAW76711.1, hCG2023281 [Homo sapiens]	-	-
+discard	CHS.13214	chr12:127673558-127693633:+	1e-21	EHH16412.1, hypothetical protein EGK_11692, partial [Macaca mulatta]	1.20e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.13215	chr12:127704434-127717001:+	7e-23	CAE93864.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.13235	chr12:129066485-129066754:+	3e-29	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	2.27e-16	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.13287	chr12:131279946-131282977:-	6e-33	BAC85788.1, unnamed protein product [Homo sapiens]	2.90e-24	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.13352	chr12:132588276-132592302:-	8e-30	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	9.35e-18	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.13362	chr12:132762107-132768872:+	4e-53	EAW54822.1, hCG1788270, partial [Homo sapiens]	-	-
+discard	CHS.13384	chr12_GL383551v1_alt:27630-116225:+	8e-26	EHH14636.1, hypothetical protein EGK_00596, partial [Macaca mulatta]	1.43e-21	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+coding	CHS.13428	chr12_KI270836v1_alt:51298-56133:-	3e-16	KFO25700.1, Cysteine-rich, acidic integral membrane protein [Fukomys damarensis]	-	-
+coding	CHS.13457	chr13:18232317-18238305:+	0.0	CAB63715.1, hypothetical protein, partial [Homo sapiens]	0.0	sp|Q9UF83|YM012_HUMAN, Uncharacterized protein DKFZp434B061 OS=Homo sapiens PE=2 SV=2
+discard	CHS.13521	chr13:21185712-21187386:-	2e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.13535	chr13:21649905-21671022:-	8e-24	CAF14927.1, unnamed protein product, partial [Homo sapiens]	1.86e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.13539	chr13:21881677-21905587:+	5e-34	BAC85788.1, unnamed protein product [Homo sapiens]	3.44e-23	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.13556	chr13:22999583-23003079:-	2e-44	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	2.88e-35	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.1362	chr1:41302946-41308117:-	7e-59	CAF15144.1, unnamed protein product, partial [Homo sapiens]	2.86e-41	sp|Q53H47|SETMR_HUMAN, Histone-lysine N-methyltransferase SETMAR OS=Homo sapiens GN=SETMAR PE=1 SV=2
+non-coding	CHS.13719	chr13:30836422-30840605:-	3e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.13808	chr13:36833964-36844820:+	2e-43	BAB15071.1, unnamed protein product [Homo sapiens]	3.65e-34	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.13906	chr13:42732319-42747456:-	3e-17	BAK63765.1, long-chain-fatty-acid--CoA ligase 3 [Pan troglodytes]	-	-
+discard	CHS.13975	chr13:45320538-45332217:-	3e-28	EHH16412.1, hypothetical protein EGK_11692, partial [Macaca mulatta]	3.56e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.14057	chr13:49592763-49594479:+	2e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.14066	chr13:49909304-49912397:+	3e-28	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	3.50e-16	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.14068	chr13:49936596-49975204:+	1e-21	BAE91211.1, unnamed protein product [Macaca fascicularis]	-	-
+discard	CHS.1411	chr1:43323115-43328744:-	3e-45	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	8.58e-16	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.14221	chr13:63397128-63459362:+	2e-19	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+discard	CHS.1424	chr1:43501262-43505903:+	2e-16	EHH59362.1, hypothetical protein EGM_09449, partial [Macaca fascicularis]	-	-
+discard	CHS.14241	chr13:65970339-65982606:+	2e-17	EHH54194.1, hypothetical protein EGM_14979, partial [Macaca fascicularis]	-	-
+discard	CHS.14334	chr13:76843056-76846954:-	5e-24	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+non-coding	CHS.14351	chr13:77430588-77444221:+	1e-26	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	1.21e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.144	chr1:2314906-2324302:+	4e-52	EAW56116.1, hCG2041674, partial [Homo sapiens]	-	-
+discard	CHS.14407	chr13:81188098-81220813:+	7e-31	BAH12795.1, unnamed protein product [Homo sapiens]	1.19e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.14411	chr13:81394295-81407104:-	3e-29	EAX02280.1, hCG1991573 [Homo sapiens]	3.47e-17	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.14416	chr13:82909240-82913563:+	7e-27	BAB21923.1, hypothetical protein [Macaca fascicularis]	-	-
+discard	CHS.14453	chr13:87975483-87977511:-	6e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.14454	chr13:87975640-87976948:+	7e-79	AAK21302.1, FKSG49 [Homo sapiens]	-	-
+coding	CHS.14487	chr13:91394323-91397496:+	2e-28	EHH16997.1, hypothetical protein EGK_13278, partial [Macaca mulatta]	3.48e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.14518	chr13:95415285-95419130:-	2e-31	EAW68953.1, hCG1814039, partial [Homo sapiens]	1.26e-23	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.14810	chr13:113269836-113272525:-	9e-36	EHH60624.1, hypothetical protein EGM_12020, partial [Macaca fascicularis]	1.28e-33	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.14817	chr13:113372202-113394084:-	8e-31	BAC85397.1, unnamed protein product [Homo sapiens]	3.85e-20	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+coding	CHS.14848	chr13:114132708-114149199:+	3e-22	XP_007960560.1, PREDICTED: uncharacterized protein LOC103215711 [Chlorocebus sabaeus]	4.25e-16	sp|B8NM66|USTA_ASPFN, Ribosomally synthesized cyclic peptide ustiloxin B precursosr OS=Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167) GN=ustA PE=1 SV=1
+coding	CHS.14884	chr14:19009376-19016607:+	8e-37	XP_008017879.1, PREDICTED: uncharacterized protein LOC103247567 [Chlorocebus sabaeus]	-	-
+discard	CHS.14914	chr14:20309685-20311267:+	6e-42	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+discard	CHS.15179	chr14:30359537-30363541:-	9e-33	EAW59739.1, hCG1817513 [Homo sapiens]	2.29e-16	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.15268	chr14:35393702-35399178:-	5e-34	EHH51985.1, hypothetical protein EGM_12341, partial [Macaca fascicularis]	1.50e-31	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.15278	chr14:35814462-35819034:+	7e-25	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	8.86e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.15334	chr14:39139902-39147781:+	5e-30	EHH51985.1, hypothetical protein EGM_12341, partial [Macaca fascicularis]	7.95e-26	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.15336	chr14:39139677-39146407:-	3e-46	AAG35515.1, PRO2550 [Homo sapiens]	5.22e-33	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.1546	chr1:47328354-47334223:-	7e-42	EHH20263.1, hypothetical protein EGK_03078, partial [Macaca mulatta]	1.10e-24	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.15528	chr14:54201805-54204998:+	4e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.15529	chr14:54206520-54212737:+	3e-16	EAW55411.1, hCG1979495 [Homo sapiens]	-	-
+non-coding	CHS.15553	chr14:55078830-55103329:-	3e-33	EHH14529.1, hypothetical protein EGK_00471, partial [Macaca mulatta]	4.62e-23	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.15846	chr14:70712116-70718482:-	2e-26	EHH64557.1, hypothetical protein EGM_17802, partial [Macaca fascicularis]	4.95e-25	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.1594	chr1:51274306-51287134:-	1e-28	CAF15923.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.15979	chr14:76092704-76098346:-	4e-16	BAB21923.1, hypothetical protein [Macaca fascicularis]	-	-
+discard	CHS.16079	chr14:83144654-83196398:-	1e-42	CAF16551.1, unnamed protein product, partial [Homo sapiens]	1.03e-21	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.1622	chr1:52671957-52684213:-	8e-51	AAG35515.1, PRO2550 [Homo sapiens]	9.34e-29	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+coding	CHS.16275	chr14:95320173-95322798:+	5e-47	XP_016782179.1, PREDICTED: chromosome alignment-maintaining phosphoprotein 1-like [Pan troglodytes]	-	-
+coding	CHS.16287	chr14:95519726-95527245:-	3e-96	EAW81604.1, hCG2038093, partial [Homo sapiens]	-	-
+non-coding	CHS.16326	chr14:97197097-97208599:-	1e-19	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	1.18e-19	sp|A0A096LPI5|GVQW2_HUMAN, Protein GVQW2 OS=Homo sapiens GN=GVQW2 PE=4 SV=1
+discard	CHS.16328	chr14:97408993-97426918:-	1e-25	EHH61346.1, hypothetical protein EGM_19342, partial [Macaca fascicularis]	1.49e-21	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.16486	chr14:103508361-103512625:+	1e-30	AAF24054.1, PRO0657, partial [Homo sapiens]	-	-
+coding	CHS.16517	chr14:104293439-104300910:+	6e-61	ELR53142.1, hypothetical protein M91_08612, partial [Bos mutus]	-	-
+coding	CHS.16570	chr14:105083404-105087423:+	2e-23	ELR48704.1, hypothetical protein M91_18454, partial [Bos mutus]	-	-
+coding	CHS.16591	chr14:105582536-105585875:-	8e-36	C45874, Ig alpha-2 chain C region - human (fragment)	-	-
+non-coding	CHS.16690	chr15:20201744-20204590:+	1e-33	BAC85254.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.16691	chr15:20202996-20204581:-	2e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.16693	chr15:20295021-20332723:+	5e-37	EAW59499.1, hCG2038561, partial [Homo sapiens]	-	-
+discard	CHS.16723	chr15:21769262-21775671:-	5e-39	EHH55556.1, hypothetical protein EGM_04788, partial [Macaca fascicularis]	6.20e-38	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.16747	chr15:22655746-22656076:+	1e-33	BAE91091.1, unnamed protein product [Macaca fascicularis]	5.77e-23	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+coding	CHS.16882	chr15:30184194-30195602:+	7e-46	XP_007987112.1, PREDICTED: uncharacterized protein LOC103230306 [Chlorocebus sabaeus]	-	-
+coding	CHS.16925	chr15:32343075-32352006:-	5e-45	XP_007987112.1, PREDICTED: uncharacterized protein LOC103230306 [Chlorocebus sabaeus]	-	-
+non-coding	CHS.1693	chr1:54895915-54896539:+	3e-38	EAW56733.1, similar to zinc finger protein 569, isoform CRA_a [Homo sapiens]	4.45e-28	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+non-coding	CHS.16962	chr15:34137299-34140108:+	5e-25	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+coding	CHS.17	chr1:499860-523759:-	2e-21	EHH16558.1, hypothetical protein EGK_11851, partial [Macaca mulatta]	2.10e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.1708	chr1:55870368-55880337:+	1e-21	EAW68605.1, hCG1820850 [Homo sapiens]	1.16e-16	sp|E7EU14|PP5D1_HUMAN, Protein PPP5D1 OS=Homo sapiens GN=PPP5D1 PE=2 SV=2
+discard	CHS.17101	chr15:40394297-40396779:-	6e-30	EHH51985.1, hypothetical protein EGM_12341, partial [Macaca fascicularis]	1.40e-28	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.17129	chr15:40866851-40872019:-	7e-43	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	6.67e-36	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.17233	chr15:44241540-44245543:+	2e-25	EHH66749.1, hypothetical protein EGM_03798, partial [Macaca fascicularis]	3.60e-21	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.17264	chr15:45333064-45339138:-	5e-27	EHH64557.1, hypothetical protein EGM_17802, partial [Macaca fascicularis]	1.39e-23	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.17268	chr15:45421491-45430462:-	3e-30	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	8.78e-23	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.1747	chr1:58701184-58701515:-	1e-34	BAE89454.1, unnamed protein product [Macaca fascicularis]	1.02e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.17554	chr15:63486063-63498075:-	1e-48	AAG35515.1, PRO2550 [Homo sapiens]	3.32e-31	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+non-coding	CHS.17555	chr15:63487164-63492017:+	1e-37	EHH24426.1, hypothetical protein EGK_08082, partial [Macaca mulatta]	2.74e-26	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.17710	chr15:70041954-70045206:-	2e-22	EHH24426.1, hypothetical protein EGK_08082, partial [Macaca mulatta]	-	-
+non-coding	CHS.17813	chr15:74054166-74058907:+	2e-35	EHH61346.1, hypothetical protein EGM_19342, partial [Macaca fascicularis]	1.34e-26	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.17908	chr15:75665573-75670219:-	4e-19	EAW54898.1, hCG1811730 [Homo sapiens]	-	-
+discard	CHS.17910	chr15:75665112-75673603:+	9e-23	CAF16398.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.17930	chr15:76325903-76327126:+	5e-39	EHH57493.1, hypothetical protein EGM_07132, partial [Macaca fascicularis]	8.98e-36	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.17966	chr15:78309903-78313011:+	4e-16	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	4.67e-16	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.17981	chr15:78754079-78756546:+	2e-44	CAF86063.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.18036	chr15:80641631-80650016:+	2e-16	AAM46782.1, hepatocellular carcinoma-associated antigen HCA25a [Homo sapiens]	-	-
+coding	CHS.18130	chr15:84468602-84473694:+	1e-85	AAK15476.1, colon cancer-associated antigen AgSK1-2HT-ECS [Homo sapiens]	-	-
+discard	CHS.18185	chr15:88551764-88553108:-	6e-37	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.18222	chr15:89754247-89756982:-	1e-16	AAC50940.1, unknown [Homo sapiens]	-	-
+discard	CHS.18303	chr15:92870132-92878958:+	3e-22	XP_016814489.1, PREDICTED: protein GVQW2-like, partial [Pan troglodytes]	1.74e-23	sp|A0A096LPI5|GVQW2_HUMAN, Protein GVQW2 OS=Homo sapiens GN=GVQW2 PE=4 SV=1
+coding	CHS.18419	chr15:99472310-99476307:-	2e-35	BAC41235.1, hypothetical protein [Macaca fascicularis]	-	-
+non-coding	CHS.18480	chr15:101724652-101736740:+	3e-30	CAF16783.1, unnamed protein product, partial [Homo sapiens]	4.10e-19	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+coding	CHS.18601	chr15_KI270905v1_alt:3097927-3101916:-	7e-43	EAW61253.1, hCG1773681, partial [Homo sapiens]	-	-
+non-coding	CHS.1876	chr1:67303272-67306378:+	3e-19	EHH16412.1, hypothetical protein EGK_11692, partial [Macaca mulatta]	2.19e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.1885	chr1:67612444-67626841:+	2e-26	CAE98607.1, unnamed protein product, partial [Homo sapiens]	2.07e-16	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+coding	CHS.18850	chr16:2677484-2682406:+	3e-94	EAW85493.1, hCG1992413 [Homo sapiens]	-	-
+non-coding	CHS.18917	chr16:3236355-3239708:+	3e-16	EHH14291.1, hypothetical protein EGK_00186, partial [Macaca mulatta]	-	-
+discard	CHS.18979	chr16:4600774-4606217:-	1e-17	EHH17280.1, hypothetical protein EGK_13646, partial [Macaca mulatta]	-	-
+non-coding	CHS.19036	chr16:8872899-8878248:-	1e-28	EHH18962.1, hypothetical protein EGK_19562, partial [Macaca mulatta]	1.04e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.19040	chr16:9059281-9068549:-	2e-20	EAW84173.1, hCG2002514 [Homo sapiens]	-	-
+non-coding	CHS.19099	chr16:11532166-11546043:+	1e-35	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	9.47e-30	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.19132	chr16:12627845-12630464:-	2e-20	AAF69654.1, PRO2822 [Homo sapiens]	-	-
+non-coding	CHS.19146	chr16:13831466-13835542:+	9e-28	BAH12795.1, unnamed protein product [Homo sapiens]	5.38e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.19177	chr16:14959806-14972042:-	3e-36	EHH19734.1, hypothetical protein EGK_02450, partial [Macaca mulatta]	3.02e-30	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.19219	chr16:17560797-17565546:-	2e-37	EHH57573.1, hypothetical protein EGM_07242, partial [Macaca fascicularis]	1.64e-33	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.19345	chr16:22541138-22543399:+	9e-35	CAF17612.1, unnamed protein product, partial [Homo sapiens]	8.89e-28	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.19397	chr16:25274632-25277638:+	2e-30	EHH66749.1, hypothetical protein EGM_03798, partial [Macaca fascicularis]	2.04e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.19438	chr16:28372654-28379360:-	6e-78	EAW57759.1, hCG2038827, partial [Homo sapiens]	-	-
+non-coding	CHS.19484	chr16:29406417-29408322:+	6e-30	EHH52138.1, hypothetical protein EGM_12528, partial [Macaca fascicularis]	2.55e-23	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.19499	chr16:29613885-29617890:+	2e-32	EHH66749.1, hypothetical protein EGM_03798, partial [Macaca fascicularis]	7.30e-26	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.19582	chr16:30678364-30681512:+	7e-30	CAF16783.1, unnamed protein product, partial [Homo sapiens]	6.75e-23	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.19590	chr16:30809146-30813673:-	9e-19	EHH57996.1, hypothetical protein EGM_07753, partial [Macaca fascicularis]	-	-
+non-coding	CHS.19592	chr16:30826619-30833515:+	1e-37	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	1.29e-23	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.19631	chr16:31383249-31384579:-	5e-20	BAC04924.1, unnamed protein product [Homo sapiens]	-	-
+coding	CHS.19680	chr16:33335941-33340004:+	1e-21	XP_017171833.1, PREDICTED: uncharacterized protein LOC108168203 [Mus musculus]	2.20e-23	sp|A1X158|FP1V1_PERVI, Foot protein 1 variant 1 OS=Perna viridis GN=fp-1 PE=1 SV=1
+non-coding	CHS.19685	chr16:33505254-33516837:-	9e-26	BAB21923.1, hypothetical protein [Macaca fascicularis]	-	-
+coding	CHS.19686	chr16:33523082-33532313:-	9e-54	EAW59499.1, hCG2038561, partial [Homo sapiens]	-	-
+coding	CHS.19726	chr16:38276130-38279308:-	7e-20	EGV91149.1, hypothetical protein I79_026257 [Cricetulus griseus]	-	-
+discard	CHS.19737	chr16:46652329-46655578:-	4e-38	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.19750	chr16:46999621-47001283:+	1e-39	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.19825	chr16:51129368-51133253:+	5e-42	EHH64004.1, hypothetical protein EGM_17106, partial [Macaca fascicularis]	3.69e-34	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.20033	chr16:60341117-60345438:+	2e-25	CAE94144.1, unnamed protein product [Homo sapiens]	2.28e-16	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.20043	chr16:62101857-62130645:+	6e-21	EHH17280.1, hypothetical protein EGK_13646, partial [Macaca mulatta]	6.30e-20	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.20161	chr16:67890095-67893242:-	2e-24	EHH64306.1, hypothetical protein EGM_17487, partial [Macaca fascicularis]	9.06e-16	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.20192	chr16:68598501-68599891:-	1e-48	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	3.95e-43	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.20212	chr16:69478922-69480781:+	1e-26	XP_016814489.1, PREDICTED: protein GVQW2-like, partial [Pan troglodytes]	1.15e-24	sp|A0A096LPI5|GVQW2_HUMAN, Protein GVQW2 OS=Homo sapiens GN=GVQW2 PE=4 SV=1
+non-coding	CHS.20379	chr16:77002916-77108961:-	2e-29	EHH65544.1, hypothetical protein EGM_02322, partial [Macaca fascicularis]	-	-
+coding	CHS.20422	chr16:80578113-80593618:+	4e-136	XP_014197352.1, PREDICTED: uncharacterized protein LOC106633932 [Pan paniscus]	-	-
+non-coding	CHS.20428	chr16:80918428-80932819:-	1e-26	CAE89712.1, unnamed protein product [Homo sapiens]	8.14e-22	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.20565	chr16:86018732-86027681:+	3e-46	AAG35515.1, PRO2550 [Homo sapiens]	4.57e-25	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.20576	chr16:86302374-86321858:-	3e-27	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	2.10e-17	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+coding	CHS.20594	chr16:86670268-86698033:+	2e-27	ELR53142.1, hypothetical protein M91_08612, partial [Bos mutus]	-	-
+non-coding	CHS.20720	chr16:89247705-89252366:+	3e-17	CAF01714.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.20800	chr16_KI270728v1_random:1535231-1545271:-	3e-36	EAW68953.1, hCG1814039, partial [Homo sapiens]	1.45e-29	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+coding	CHS.20806	chr16_KI270728v1_random:1823580-1831296:-	9e-54	EAW59499.1, hCG2038561, partial [Homo sapiens]	-	-
+coding	CHS.20828	chr16_KI270853v1_alt:775435-778492:-	4e-35	XP_016802200.1, PREDICTED: LOW QUALITY PROTEIN: nodal modulator 1 [Pan troglodytes]	9.59e-35	sp|Q15155|NOMO1_HUMAN, Nodal modulator 1 OS=Homo sapiens GN=NOMO1 PE=1 SV=5
+non-coding	CHS.20892	chr17:722531-732316:+	9e-18	CAD33452.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.20914	chr17:1265997-1268302:-	2e-30	EHH50766.1, hypothetical protein EGM_01641 [Macaca fascicularis]	3.91e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.20933	chr17:1688593-1690665:-	1e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.20943	chr17:1918864-1924059:-	7e-27	XP_014202723.1, PREDICTED: protein GVQW1-like, partial [Pan paniscus]	5.34e-23	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.21016	chr17:3853665-3858936:+	1e-28	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	3.07e-20	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.21157	chr17:7142269-7173363:-	1e-30	EHH61346.1, hypothetical protein EGM_19342, partial [Macaca fascicularis]	6.60e-24	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.21159	chr17:7154697-7168454:+	3e-21	EAX08724.1, hCG2038303, partial [Homo sapiens]	-	-
+non-coding	CHS.21183	chr17:7377118-7377719:-	5e-19	CAF14439.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.21200	chr17:7547003-7548846:+	3e-28	CAJ42752.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.2124	chr1:87633310-87635612:-	4e-28	CAF16051.2, unnamed protein product, partial [Homo sapiens]	1.09e-18	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.21366	chr17:13306908-13318136:+	1e-23	BAE90042.1, unnamed protein product [Macaca fascicularis]	3.37e-16	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.21428	chr17:16353597-16371701:+	5e-29	BAC85346.1, unnamed protein product [Homo sapiens]	1.11e-20	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+discard	CHS.21469	chr17:17441696-17446296:-	2e-29	AAM46782.1, hepatocellular carcinoma-associated antigen HCA25a [Homo sapiens]	-	-
+discard	CHS.215	chr1:4019392-4055669:+	7e-28	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	1.33e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.21569	chr17:19898467-19904206:+	1e-26	EAW86211.1, protein tyrosine phosphatase-like (proline instead of catalytic arginine), member A, isoform CRA_b [Homo sapiens]	-	-
+discard	CHS.21589	chr17:20684393-20686121:+	2e-41	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+discard	CHS.21640	chr17:27212093-27213314:-	9e-83	AAK08113.1, FKSG69 [Homo sapiens]	-	-
+discard	CHS.21723	chr17:29057529-29063866:+	5e-16	BAE91211.1, unnamed protein product [Macaca fascicularis]	-	-
+discard	CHS.21817	chr17:32391126-32394789:-	4e-18	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	7.60e-19	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.21818	chr17:32392423-32401039:-	2e-32	EHH55556.1, hypothetical protein EGM_04788, partial [Macaca fascicularis]	5.68e-30	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.21878	chr17:34396259-34406665:-	2e-28	EHH55734.1, hypothetical protein EGM_04997, partial [Macaca fascicularis]	6.17e-23	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.21884	chr17:34758828-34760517:-	4e-16	EHH50885.1, hypothetical protein EGM_01780, partial [Macaca fascicularis]	-	-
+non-coding	CHS.219	chr1:4553352-4571350:-	2e-32	EHH51985.1, hypothetical protein EGM_12341, partial [Macaca fascicularis]	2.33e-22	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.21962	chr17:36339479-36346700:+	3e-18	JAA41200.1, deltex 3-like [Pan troglodytes]	-	-
+discard	CHS.22008	chr17:38019917-38027930:+	3e-18	JAA41200.1, deltex 3-like [Pan troglodytes]	-	-
+non-coding	CHS.22012	chr17:38295979-38296890:+	3e-19	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	-	-
+discard	CHS.22023	chr17:38608784-38632322:+	1e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.22039	chr17:38863871-38865441:+	3e-19	EHH58869.1, hypothetical protein EGM_08825, partial [Macaca fascicularis]	5.24e-18	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.22040	chr17:38864079-38864759:-	5e-16	CAF16575.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.2209	chr1:92021312-92030387:-	3e-39	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+discard	CHS.22265	chr17:42447960-42450053:+	5e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.2228	chr1:92978169-92985747:+	3e-38	BAE89454.1, unnamed protein product [Macaca fascicularis]	7.49e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.22304	chr17:42917175-42923885:+	4e-21	CAE91442.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.22330	chr17:43307433-43324117:+	4e-29	CAJ42752.1, unnamed protein product [Homo sapiens]	1.61e-16	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.22339	chr17:43426592-43442486:+	2e-43	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	2.84e-33	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.22340	chr17:43433267-43439616:-	1e-31	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	1.11e-17	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.22349	chr17:43710442-43713230:+	1e-17	EAW54940.1, hCG2038983, partial [Homo sapiens]	-	-
+discard	CHS.22391	chr17:44278487-44281718:-	1e-41	AAG35515.1, PRO2550 [Homo sapiens]	9.50e-27	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.22403	chr17:44504920-44507539:-	3e-28	EAW56733.1, similar to zinc finger protein 569, isoform CRA_a [Homo sapiens]	4.56e-19	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.22457	chr17:45494379-45502889:-	1e-37	EAW81162.1, hCG1814203 [Homo sapiens]	1.38e-17	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.22458	chr17:45494502-45500257:+	1e-28	BAB70813.1, unnamed protein product [Homo sapiens]	7.49e-18	sp|Q96CB5|CH044_HUMAN, Putative uncharacterized protein C8orf44 OS=Homo sapiens GN=C8orf44 PE=2 SV=2
+discard	CHS.22515	chr17:47502931-47522902:-	3e-31	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	1.42e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.22570	chr17:48708512-48710695:-	1e-23	CAF17222.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.22599	chr17:49233724-49239263:+	6e-39	BAE91091.1, unnamed protein product [Macaca fascicularis]	1.89e-23	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.22656	chr17:50222741-50223327:+	2e-24	EAW78227.1, hCG1811714 [Homo sapiens]	-	-
+discard	CHS.22661	chr17:50297229-50342692:+	2e-28	EHH60881.1, hypothetical protein EGM_18770, partial [Macaca fascicularis]	5.79e-23	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.22674	chr17:50486940-50490519:+	2e-21	EAW99473.1, hCG2038249, partial [Homo sapiens]	-	-
+discard	CHS.22754	chr17:56878760-56880828:+	2e-25	EHH66747.1, hypothetical protein EGM_03796, partial [Macaca fascicularis]	-	-
+discard	CHS.22764	chr17:57061296-57072414:+	4e-29	EAX06591.1, hCG2039110, partial [Homo sapiens]	2.99e-22	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.2290	chr1:95868428-95871292:+	1e-38	BAE91091.1, unnamed protein product [Macaca fascicularis]	4.17e-26	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.22914	chr17:62900112-62903704:-	1e-36	EHH22620.1, hypothetical protein EGK_05928, partial [Macaca mulatta]	1.57e-35	sp|A0A096LPI5|GVQW2_HUMAN, Protein GVQW2 OS=Homo sapiens GN=GVQW2 PE=4 SV=1
+coding	CHS.22924	chr17:63456938-63457601:-	2e-81	AAK08111.1, FKSG67 [Homo sapiens]	-	-
+discard	CHS.2294	chr1:96468045-96472521:-	5e-41	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+discard	CHS.22977	chr17:64676611-64679711:+	2e-32	CAF17612.1, unnamed protein product, partial [Homo sapiens]	2.95e-25	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.23033	chr17:67709794-67717797:-	4e-20	EAX04212.1, polymerase (DNA directed), eta, isoform CRA_c [Homo sapiens]	2.88e-18	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+discard	CHS.23040	chr17:68020112-68027582:+	2e-22	CAF16521.1, unnamed protein product, partial [Homo sapiens]	1.01e-29	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.23090	chr17:69555052-69572524:+	2e-26	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	4.27e-24	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.23112	chr17:70882628-70921115:+	6e-21	CAE98892.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.23113	chr17:70884813-70947842:-	1e-29	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	5.27e-18	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.23153	chr17:73272740-73283515:-	7e-46	CAD69516.1, unnamed protein product [Homo sapiens]	3.99e-42	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.23155	chr17:73276507-73278093:+	7e-56	EAW89122.1, hCG2039054, partial [Homo sapiens]	6.85e-30	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+non-coding	CHS.23245	chr17:75203422-75205353:+	9e-53	EHH53367.1, hypothetical protein EGM_13996, partial [Macaca fascicularis]	3.87e-32	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.23374	chr17:77696764-77701847:-	7e-30	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	1.03e-18	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.23440	chr17:78982617-78991548:-	2e-30	EHH17280.1, hypothetical protein EGK_13646, partial [Macaca mulatta]	-	-
+discard	CHS.23582	chr17:81949418-81952240:-	5e-16	CAE91414.1, unnamed protein product [Homo sapiens]	-	-
+coding	CHS.23665	chr17_GL000205v2_random:59399-71535:-	9e-21	XP_016802708.1, PREDICTED: uncharacterized protein LOC107972551 [Pan troglodytes]	-	-
+discard	CHS.23699	chr17_GL000258v2_alt:1188847-1201342:+	6e-33	BAC04924.1, unnamed protein product [Homo sapiens]	2.59e-19	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.23700	chr17_GL000258v2_alt:1204056-1209249:-	3e-30	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	6.40e-26	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+discard	CHS.23701	chr17_GL000258v2_alt:1233092-1263326:+	3e-17	EAW65946.1, chromosome 14 open reading frame 126, isoform CRA_b [Homo sapiens]	-	-
+discard	CHS.23702	chr17_GL000258v2_alt:1237523-1260865:-	9e-62	AAK21302.1, FKSG49 [Homo sapiens]	-	-
+coding	CHS.23703	chr17_GL000258v2_alt:1245353-1264407:+	8e-45	XP_008957429.1, PREDICTED: nucleosome-remodeling factor subunit NURF301-like, partial [Pan paniscus]	1.25e-34	sp|Q12830|BPTF_HUMAN, Nucleosome-remodeling factor subunit BPTF OS=Homo sapiens GN=BPTF PE=1 SV=3
+coding	CHS.23720	chr17_GL383563v3_alt:147119-153057:+	2e-30	EAW90674.1, hCG1804024 [Homo sapiens]	9.58e-16	sp|P20481|BUCC_APLCA, Buccalin OS=Aplysia californica PE=1 SV=2
+discard	CHS.23956	chr18:140315-142608:-	2e-31	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	2.06e-21	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.24053	chr18:5299184-5307439:+	8e-26	EAW56745.1, zinc finger protein 30 homolog (mouse), partial [Homo sapiens]	-	-
+coding	CHS.24083	chr18:7455844-7461135:-	-	-	-	-
+non-coding	CHS.24098	chr18:8974487-8998943:+	5e-41	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	1.07e-28	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.24099	chr18:9008786-9017655:-	5e-39	AAG35515.1, PRO2550 [Homo sapiens]	8.56e-31	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.24114	chr18:9433219-9441283:-	6e-37	EHH14636.1, hypothetical protein EGK_00596, partial [Macaca mulatta]	1.35e-27	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.24117	chr18:9543057-9545805:-	2e-39	BAE91091.1, unnamed protein product [Macaca fascicularis]	9.30e-26	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.24163	chr18:11174071-11184890:+	1e-40	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	3.74e-37	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.24251	chr18:14867349-14870996:+	2e-64	EAW50643.1, hCG1996836, partial [Homo sapiens]	-	-
+discard	CHS.24346	chr18:26132761-26133836:-	2e-29	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+non-coding	CHS.24457	chr18:35884881-35885640:-	2e-38	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	8.09e-25	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+coding	CHS.24486	chr18:37964746-37992737:+	3e-36	EAX01403.1, hCG2037009 [Homo sapiens]	-	-
+non-coding	CHS.24522	chr18:43788307-43788666:-	9e-34	EHH22373.1, hypothetical protein EGK_05619, partial [Macaca mulatta]	1.13e-26	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.24586	chr18:47932764-47946330:-	7e-41	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	5.26e-30	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.24626	chr18:49552990-49560625:-	6e-30	EHH66747.1, hypothetical protein EGM_03796, partial [Macaca fascicularis]	2.11e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.24683	chr18:54687379-54688659:-	3e-42	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.73e-32	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+discard	CHS.24743	chr18:58444211-58445730:-	2e-28	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	5.80e-19	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.24854	chr18:66653841-66683127:+	1e-30	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	4.06e-27	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.24924	chr18:73272198-73275251:-	9e-18	EAW63099.1, hCG2040866, partial [Homo sapiens]	1.54e-16	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.24943	chr18:74490525-74490808:+	1e-27	EHH16997.1, hypothetical protein EGK_13278, partial [Macaca mulatta]	2.37e-24	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.25153	chr19:786475-794492:-	9e-33	EHH64738.1, hypothetical protein EGM_18043, partial [Macaca fascicularis]	3.48e-27	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.25196	chr19:1344854-1354812:-	1e-28	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	9.18e-16	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.25209	chr19:1498610-1503544:-	4e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.25214	chr19:1542085-1547999:+	4e-26	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.25e-24	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.25238	chr19:1937498-1939119:+	5e-20	EAW55734.1, hCG2038067, partial [Homo sapiens]	6.89e-18	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.25242	chr19:1982426-1985271:+	2e-38	EHH64004.1, hypothetical protein EGM_17106, partial [Macaca fascicularis]	8.92e-33	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.25271	chr19:2479595-2483204:-	1e-43	EHH60697.1, hypothetical protein EGM_18538, partial [Macaca fascicularis]	2.24e-33	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.25273	chr19:2491709-2493905:+	8e-30	EHH14291.1, hypothetical protein EGK_00186, partial [Macaca mulatta]	8.05e-25	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.25294	chr19:2927578-2931314:-	2e-49	AAG35515.1, PRO2550 [Homo sapiens]	4.92e-30	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+non-coding	CHS.25323	chr19:3312512-3354402:+	4e-46	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	2.19e-40	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.25324	chr19:3341359-3350714:-	5e-31	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	1.16e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.25357	chr19:3944823-3950241:-	8e-48	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	2.71e-36	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.25367	chr19:4067011-4070686:+	1e-26	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	1.77e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.25377	chr19:4243127-4245600:+	9e-40	EHH20263.1, hypothetical protein EGK_03078, partial [Macaca mulatta]	1.63e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.25402	chr19:4631624-4634822:-	1e-37	EHH24426.1, hypothetical protein EGK_08082, partial [Macaca mulatta]	2.53e-29	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.25428	chr19:5548698-5554311:+	5e-33	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.21e-27	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.25494	chr19:7012907-7013566:-	3e-29	EHH61346.1, hypothetical protein EGM_19342, partial [Macaca fascicularis]	2.38e-23	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.2561	chr1:112774589-112795291:+	5e-40	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.25690	chr19:11079344-11084385:-	1e-35	EAW83836.1, hCG2014340 [Homo sapiens]	4.91e-20	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.25703	chr19:11293749-11294842:+	5e-24	XP_009196570.1, PREDICTED: protein FAM122C isoform X13 [Papio anubis]	-	-
+discard	CHS.25733	chr19:11785041-11787968:-	4e-27	FAA00321.1, TPA: augmented in rheumatoid arthritis 2 [Homo sapiens]	4.97e-26	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.25745	chr19:12082133-12085334:+	2e-19	XP_014202723.1, PREDICTED: protein GVQW1-like, partial [Pan paniscus]	4.10e-16	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+non-coding	CHS.25756	chr19:12297733-12314338:+	1e-22	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	2.05e-18	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+discard	CHS.2578	chr1:113686027-113690499:+	6e-21	CAE89781.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.25787	chr19:12762494-12762939:+	3e-34	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	1.05e-24	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.25829	chr19:13167296-13176786:+	5e-32	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	1.03e-16	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.25836	chr19:13653686-13681985:-	1e-32	XP_008977846.2, PREDICTED: LOW QUALITY PROTEIN: protein GVQW1 [Callithrix jacchus]	3.20e-21	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.25850	chr19:13837141-13842918:-	2e-83	BAC85217.1, unnamed protein product [Homo sapiens]	2.83e-86	sp|Q6ZPA2|YS039_HUMAN, Putative uncharacterized protein FLJ26174 OS=Homo sapiens PE=2 SV=1
+discard	CHS.25920	chr19:15025578-15029361:+	1e-34	XP_016809897.1, PREDICTED: zinc finger protein 454 isoform X2 [Pan troglodytes]	1.55e-21	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.25940	chr19:15603924-15608110:-	6e-19	CAF14439.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.2608	chr1:114802171-114804333:-	4e-44	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.26114	chr19:18799582-18802118:+	1e-30	EHH15935.1, hypothetical protein EGK_02111, partial [Macaca mulatta]	1.19e-17	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.26128	chr19:19113053-19117777:-	5e-27	XP_016812110.1, PREDICTED: protein GVQW1-like [Pan troglodytes]	2.79e-23	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+discard	CHS.26187	chr19:20702517-20741726:-	2e-26	CAD69516.1, unnamed protein product [Homo sapiens]	2.26e-19	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.26224	chr19:22106116-22107275:-	3e-35	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.26243	chr19:22807815-22811433:+	2e-42	EHH55556.1, hypothetical protein EGM_04788, partial [Macaca fascicularis]	6.54e-37	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.26244	chr19:22864584-22869473:+	2e-28	EHH24659.1, hypothetical protein EGK_08355, partial [Macaca mulatta]	6.40e-16	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.26247	chr19:22926165-22927405:+	9e-21	AAM46782.1, hepatocellular carcinoma-associated antigen HCA25a [Homo sapiens]	-	-
+discard	CHS.26248	chr19:22927449-22928605:+	5e-40	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.26278	chr19:25304667-25307029:+	4e-30	EGV91149.1, hypothetical protein I79_026257 [Cricetulus griseus]	-	-
+coding	CHS.26279	chr19:26529641-26529916:+	1e-33	EGV91149.1, hypothetical protein I79_026257 [Cricetulus griseus]	-	-
+discard	CHS.26326	chr19:29679290-29685326:+	7e-33	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	7.46e-26	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.26498	chr19:35697726-35700690:+	1e-36	CAE92091.1, unnamed protein product [Homo sapiens]	4.87e-26	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.26543	chr19:36257689-36272236:+	3e-93	XP_016791291.1, PREDICTED: uncharacterized protein LOC107969739 isoform X1 [Pan troglodytes]	-	-
+coding	CHS.26544	chr19:36259377-36305826:-	7e-67	XP_004048119.2, PREDICTED: protein FAM27D1-like [Gorilla gorilla gorilla]	1.09e-33	sp|Q1W209|ESRG_HUMAN, Embryonic stem cell-related gene protein OS=Homo sapiens GN=ESRG PE=2 SV=2
+discard	CHS.26554	chr19:36491401-36496542:-	5e-79	AAK21305.1, FKSG52 [Homo sapiens]	-	-
+discard	CHS.26566	chr19:36793707-36797068:+	7e-33	EHH20263.1, hypothetical protein EGK_03078, partial [Macaca mulatta]	6.20e-27	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.26583	chr19:37272676-37312036:-	1e-50	EAW50417.1, hCG1820370 [Homo sapiens]	-	-
+coding	CHS.26584	chr19:37272676-37292673:+	1e-73	XP_004048119.2, PREDICTED: protein FAM27D1-like [Gorilla gorilla gorilla]	-	-
+discard	CHS.2661	chr1:117269704-117295390:-	1e-38	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	7.20e-32	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.26640	chr19:38637542-38642622:-	1e-25	CAD69626.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.26654	chr19:38854720-38857106:-	6e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.26665	chr19:39038999-39070073:+	1e-47	AAG35515.1, PRO2550 [Homo sapiens]	9.12e-33	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.26676	chr19:39266990-39267877:+	1e-16	EAW78405.1, hCG2021310 [Homo sapiens]	7.23e-16	sp|Q96N38|ZN714_HUMAN, Zinc finger protein 714 OS=Homo sapiens GN=ZNF714 PE=2 SV=3
+discard	CHS.26729	chr19:40180229-40191389:-	6e-25	EHH24426.1, hypothetical protein EGK_08082, partial [Macaca mulatta]	3.71e-18	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.26753	chr19:40631099-40632297:-	4e-23	EHH16986.1, hypothetical protein EGK_13267, partial [Macaca mulatta]	2.32e-23	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.26777	chr19:41103254-41104252:+	2e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.26780	chr19:41179731-41181830:+	8e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.26806	chr19:41612688-41616630:+	5e-36	EHH14613.1, hypothetical protein EGK_00570, partial [Macaca mulatta]	5.83e-30	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+non-coding	CHS.26814	chr19:41819418-41824486:+	5e-32	BAD18412.1, unnamed protein product [Homo sapiens]	1.69e-27	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.27008	chr19:45478867-45485099:+	1e-32	EHH52072.1, hypothetical protein EGM_12441, partial [Macaca fascicularis]	3.63e-21	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.27103	chr19:47010270-47017350:+	4e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.27113	chr19:47243364-47249232:+	1e-31	XP_017443260.1, PREDICTED: uncharacterized protein LOC108348722 [Rattus norvegicus]	-	-
+non-coding	CHS.27163	chr19:48292997-48296302:+	5e-36	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.93e-32	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.27179	chr19:48547985-48550560:-	4e-33	ELR48704.1, hypothetical protein M91_18454, partial [Bos mutus]	-	-
+coding	CHS.2721	chr1:120415056-120421180:+	7e-53	XP_016855397.1, PREDICTED: uncharacterized protein LOC105371303 isoform X2 [Homo sapiens]	-	-
+coding	CHS.2754	chr1:143221958-143222833:+	6e-28	EGV91139.1, hypothetical protein I79_026279 [Cricetulus griseus]	-	-
+coding	CHS.2756	chr1:143245378-143245658:-	2e-33	EGV91139.1, hypothetical protein I79_026279 [Cricetulus griseus]	-	-
+coding	CHS.2759	chr1:143252607-143253357:-	2e-33	EGV91139.1, hypothetical protein I79_026279 [Cricetulus griseus]	-	-
+non-coding	CHS.27602	chr19:55335056-55336147:-	2e-23	CAE98892.1, unnamed protein product, partial [Homo sapiens]	2.13e-19	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.27631	chr19:55523504-55527816:-	3e-29	EHH65544.1, hypothetical protein EGM_02322, partial [Macaca fascicularis]	2.06e-16	sp|A0A096LPI5|GVQW2_HUMAN, Protein GVQW2 OS=Homo sapiens GN=GVQW2 PE=4 SV=1
+non-coding	CHS.27671	chr19:56160960-56170446:-	6e-37	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	1.21e-29	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+non-coding	CHS.27710	chr19:57088404-57095584:+	9e-29	EHH49632.1, hypothetical protein EGM_00324, partial [Macaca fascicularis]	8.55e-27	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.27740	chr19:57593914-57599795:-	1e-16	EAW54808.1, hCG2038449, partial [Homo sapiens]	-	-
+coding	CHS.27790	chr19:58381290-58383868:+	1e-20	EAW72580.1, hCG2008536, partial [Homo sapiens]	-	-
+coding	CHS.27830	chr19_GL383573v1_alt:312598-315095:-	1e-16	XP_017808319.1, PREDICTED: uncharacterized protein LOC103879999 [Papio anubis]	-	-
+coding	CHS.2823	chr1:145459794-145460756:+	8e-40	XP_010368881.1, PREDICTED: cleavage and polyadenylation specificity factor subunit 6-like [Rhinopithecus roxellana]	-	-
+discard	CHS.28457	chr1_KI270706v1_random:142005-149830:-	3e-20	CAD69516.1, unnamed protein product [Homo sapiens]	1.76e-16	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+coding	CHS.28460	chr1_KI270709v1_random:5530-15387:-	6e-25	EGV91139.1, hypothetical protein I79_026279 [Cricetulus griseus]	-	-
+coding	CHS.28467	chr1_KI270713v1_random:11310-14701:-	1e-152	XP_009438252.2, PREDICTED: uncharacterized protein LOC104004085 [Pan troglodytes]	-	-
+coding	CHS.28472	chr1_KI270714v1_random:8914-17135:-	1e-45	XP_011930822.1, PREDICTED: uncharacterized protein LOC105592870 [Cercocebus atys]	-	-
+non-coding	CHS.285	chr1:7985921-8000843:+	2e-24	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+non-coding	CHS.2859	chr1:146396045-146401672:-	4e-27	EAX04538.1, hCG2000782 [Homo sapiens]	2.63e-16	sp|Q96CB5|CH044_HUMAN, Putative uncharacterized protein C8orf44 OS=Homo sapiens GN=C8orf44 PE=2 SV=2
+non-coding	CHS.28607	chr2:3561812-3567926:-	4e-47	CAD69516.1, unnamed protein product [Homo sapiens]	9.58e-41	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.28608	chr2:3561753-3575176:-	4e-47	CAD69516.1, unnamed protein product [Homo sapiens]	9.58e-41	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.28620	chr2:4244190-4245174:+	8e-26	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+non-coding	CHS.28762	chr2:10901640-10904109:+	3e-86	AAK21302.1, FKSG49 [Homo sapiens]	-	-
+non-coding	CHS.28763	chr2:10901723-10904345:-	2e-44	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.28812	chr2:14664467-14674782:+	7e-35	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.15e-27	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+coding	CHS.2894	chr1:148032919-148035328:+	1e-40	XP_010368881.1, PREDICTED: cleavage and polyadenylation specificity factor subunit 6-like [Rhinopithecus roxellana]	-	-
+discard	CHS.28990	chr2:25909636-25911634:-	6e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.29012	chr2:26815176-26818730:+	9e-40	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	3.34e-34	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.29026	chr2:27119413-27123347:-	9e-20	EHH65557.1, hypothetical protein EGM_02338, partial [Macaca fascicularis]	-	-
+discard	CHS.29138	chr2:31855256-31863804:-	2e-25	EHH58869.1, hypothetical protein EGM_08825, partial [Macaca fascicularis]	2.21e-20	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.29190	chr2:36330684-36354820:+	7e-24	EHH27543.1, hypothetical protein EGK_17760, partial [Macaca mulatta]	1.39e-21	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.29243	chr2:38384094-38388190:-	1e-18	CAJ42705.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.29250	chr2:38541469-38545561:+	3e-29	EHH64058.1, hypothetical protein EGM_17177, partial [Macaca fascicularis]	1.44e-26	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.29290	chr2:42013736-42014558:-	2e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.29295	chr2:42072538-42076238:+	3e-20	BAB70813.1, unnamed protein product [Homo sapiens]	-	-
+coding	CHS.29336	chr2:43060303-43063976:+	2e-74	BAD92674.1, similar to FKSG60, partial [Homo sapiens]	-	-
+discard	CHS.29358	chr2:44066336-44068281:-	4e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.29359	chr2:44075976-44077012:+	2e-23	CAF17222.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.29412	chr2:46767342-46773561:-	3e-33	EHH20232.1, hypothetical protein EGK_03041, partial [Macaca mulatta]	1.24e-23	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.29590	chr2:61052336-61062521:-	3e-24	BAE91091.1, unnamed protein product [Macaca fascicularis]	-	-
+non-coding	CHS.29591	chr2:61052923-61062522:+	1e-27	CAE93856.1, unnamed protein product [Homo sapiens]	4.83e-19	sp|E7EU14|PP5D1_HUMAN, Protein PPP5D1 OS=Homo sapiens GN=PPP5D1 PE=2 SV=2
+non-coding	CHS.29620	chr2:62296252-62357972:+	6e-26	EAW59739.1, hCG1817513 [Homo sapiens]	-	-
+non-coding	CHS.29645	chr2:64273684-64299858:+	3e-35	EHH20232.1, hypothetical protein EGK_03041, partial [Macaca mulatta]	1.87e-25	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+non-coding	CHS.29829	chr2:71155936-71163474:+	9e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.2995	chr1:150519269-150540360:-	2e-34	CAE98607.1, unnamed protein product, partial [Homo sapiens]	4.82e-24	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.29969	chr2:78602085-78648865:-	5e-32	BAE91091.1, unnamed protein product [Macaca fascicularis]	1.46e-20	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.29993	chr2:82309560-82325718:-	4e-33	EAW68953.1, hCG1814039, partial [Homo sapiens]	3.82e-30	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.30018	chr2:84907975-84913097:+	1e-36	CAE91330.1, unnamed protein product [Homo sapiens]	1.57e-24	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.30040	chr2:85492759-85518365:+	6e-25	EHH18962.1, hypothetical protein EGK_19562, partial [Macaca mulatta]	5.39e-16	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.30073	chr2:85924174-85936210:+	9e-66	CAE91349.1, unnamed protein product [Homo sapiens]	-	-
+coding	CHS.30107	chr2:87358785-87363051:-	4e-18	ELK25717.1, hypothetical protein MDA_GLEAN10013964 [Myotis davidii]	-	-
+discard	CHS.30108	chr2:87359247-87372067:+	7e-16	CAF16784.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.30109	chr2:87401558-87405710:-	3e-38	EHH63249.1, hypothetical protein EGM_16173, partial [Macaca fascicularis]	1.27e-22	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.3012	chr1:150642757-150645522:-	5e-25	CAF17222.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.3016	chr1:150724266-150729984:+	1e-41	CAD69516.1, unnamed protein product [Homo sapiens]	3.04e-32	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+coding	CHS.30198	chr2:95802768-95803187:+	1e-21	CAF16964.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.30419	chr2:106553624-106557628:+	2e-25	EHH22013.1, hypothetical protein EGK_05194, partial [Macaca mulatta]	1.84e-18	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.305	chr1:8912005-8912711:-	2e-85	AAK21302.1, FKSG49 [Homo sapiens]	-	-
+non-coding	CHS.3053	chr1:151330761-151339273:+	5e-25	EHH27828.1, hypothetical protein EGK_18118, partial [Macaca mulatta]	9.27e-23	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+non-coding	CHS.30589	chr2:113567197-113570485:+	2e-36	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	1.23e-16	sp|A0A096LPI5|GVQW2_HUMAN, Protein GVQW2 OS=Homo sapiens GN=GVQW2 PE=4 SV=1
+non-coding	CHS.30659	chr2:119210398-119211032:+	1e-31	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	1.83e-20	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.30716	chr2:121892098-121894177:+	2e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.30744	chr2:126640708-126653184:-	7e-36	CAF17739.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.30793	chr2:128028127-128055641:+	2e-39	AAG35515.1, PRO2550 [Homo sapiens]	4.24e-27	sp|Q53H47|SETMR_HUMAN, Histone-lysine N-methyltransferase SETMAR OS=Homo sapiens GN=SETMAR PE=1 SV=2
+coding	CHS.30879	chr2:132265490-132268253:-	7e-22	XP_017453144.1, PREDICTED: uncharacterized protein LOC103693361 [Rattus norvegicus]	-	-
+discard	CHS.30987	chr2:142822232-142846527:+	2e-22	EHH54758.1, hypothetical protein EGM_15654, partial [Macaca fascicularis]	7.84e-17	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.31002	chr2:143912967-143922989:-	5e-21	EAX05948.1, hCG2027609 [Homo sapiens]	-	-
+discard	CHS.31140	chr2:156368729-156370149:+	3e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.31306	chr2:170141600-170157570:+	7e-42	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+non-coding	CHS.31415	chr2:175918855-175923782:+	1e-40	BAC04333.1, unnamed protein product [Homo sapiens]	1.07e-31	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.31537	chr2:183116536-183117388:+	7e-45	AAG35515.1, PRO2550 [Homo sapiens]	7.17e-31	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+non-coding	CHS.31539	chr2:183178480-183180846:+	1e-25	BAE90042.1, unnamed protein product [Macaca fascicularis]	1.57e-21	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.31697	chr2:195567197-195569602:+	2e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.3170	chr1:153551812-153552454:-	7e-36	EHH14636.1, hypothetical protein EGK_00596, partial [Macaca mulatta]	3.39e-31	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+non-coding	CHS.3174	chr1:153585013-153590245:-	2e-25	EHH20620.1, hypothetical protein EGK_03509, partial [Macaca mulatta]	9.23e-21	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.31779	chr2:201088161-201091804:-	5e-17	EAW64091.1, hCG1813943 [Homo sapiens]	-	-
+non-coding	CHS.31852	chr2:205882198-205882604:-	2e-32	EHH25734.1, hypothetical protein EGK_15555, partial [Macaca mulatta]	5.00e-28	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.31956	chr2:215301218-215311972:-	6e-23	EHH16558.1, hypothetical protein EGK_11851, partial [Macaca mulatta]	1.37e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.32068	chr2:218930778-218933699:+	7e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.3210	chr1:154287714-154288429:+	6e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.32123	chr2:219859569-219862835:-	4e-25	EAW78227.1, hCG1811714 [Homo sapiens]	-	-
+non-coding	CHS.32141	chr2:221627392-221637443:-	2e-30	EHH52072.1, hypothetical protein EGM_12441, partial [Macaca fascicularis]	1.74e-22	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.32228	chr2:227382033-227392645:+	1e-32	EHH17322.1, hypothetical protein EGK_13706, partial [Macaca mulatta]	2.48e-31	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+discard	CHS.32253	chr2:228681672-228683377:+	1e-27	AAF24054.1, PRO0657, partial [Homo sapiens]	-	-
+non-coding	CHS.32346	chr2:231723693-231727212:+	2e-33	EAW55411.1, hCG1979495 [Homo sapiens]	3.22e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.32412	chr2:234373278-234378044:+	2e-21	XP_017805578.1, PREDICTED: protein-lysine N-methyltransferase METTL10 [Papio anubis]	-	-
+discard	CHS.32442	chr2:235416087-235421746:-	4e-28	AAF24054.1, PRO0657, partial [Homo sapiens]	-	-
+coding	CHS.32535	chr2:238558815-238566194:+	1e-21	CAF15143.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.32544	chr2:238799454-238805473:+	1e-27	EHH20232.1, hypothetical protein EGK_03041, partial [Macaca mulatta]	6.81e-26	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.32556	chr2:239417574-239417895:+	7e-40	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.57e-30	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+coding	CHS.32671	chr20:309591-319484:+	5e-18	ELK04063.1, Zinc finger CCHC domain-containing protein 3 [Pteropus alecto]	-	-
+discard	CHS.3275	chr1:155304469-155308581:-	1e-26	BAB21923.1, hypothetical protein [Macaca fascicularis]	-	-
+discard	CHS.32752	chr20:2342605-2344771:-	6e-34	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	3.19e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.32771	chr20:2823414-2827110:-	2e-84	AAK08113.1, FKSG69 [Homo sapiens]	-	-
+discard	CHS.32772	chr20:2823766-2825752:+	3e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.32773	chr20:2827543-2834726:-	5e-27	EHH16997.1, hypothetical protein EGK_13278, partial [Macaca mulatta]	1.52e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.32794	chr20:3407702-3412998:+	4e-23	XP_008017628.1, PREDICTED: neural Wiskott-Aldrich syndrome protein-like [Chlorocebus sabaeus]	-	-
+discard	CHS.32814	chr20:3876376-3878544:-	3e-31	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	3.05e-27	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.32819	chr20:4015627-4016063:+	9e-17	BAE91211.1, unnamed protein product [Macaca fascicularis]	-	-
+non-coding	CHS.32820	chr20:4015676-4018327:-	2e-23	CAD33452.1, unnamed protein product [Homo sapiens]	1.12e-16	sp|Q68CZ1|FTM_HUMAN, Protein fantom OS=Homo sapiens GN=RPGRIP1L PE=1 SV=2
+discard	CHS.32844	chr20:4825904-4833778:-	9e-35	BAC87498.1, unnamed protein product [Homo sapiens]	2.40e-28	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.33161	chr20:23605974-23615275:+	2e-76	XP_011748103.1, PREDICTED: uncharacterized protein LOC105486753 isoform X1 [Macaca nemestrina]	-	-
+coding	CHS.33166	chr20:23679712-23684666:+	1e-18	BAE88055.1, unnamed protein product [Macaca fascicularis]	-	-
+coding	CHS.33245	chr20:30290598-30292606:+	1e-82	BAD92674.1, similar to FKSG60, partial [Homo sapiens]	-	-
+coding	CHS.33255	chr20:30811899-30815352:+	9e-46	EAW57711.1, hCG1993104, partial [Homo sapiens]	-	-
+coding	CHS.33256	chr20:31054170-31067739:+	1e-21	CAF00752.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.3330	chr1:156500997-156502475:+	1e-30	BAE90273.1, unnamed protein product [Macaca fascicularis]	1.36e-21	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+non-coding	CHS.33347	chr20:33693153-33700858:+	1e-47	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.3335	chr1:156512187-156522501:+	8e-38	EHH51985.1, hypothetical protein EGM_12341, partial [Macaca fascicularis]	9.91e-32	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.33356	chr20:34130555-34136489:-	2e-36	EAW93653.1, hCG2038420, partial [Homo sapiens]	-	-
+non-coding	CHS.33357	chr20:34133024-34133981:+	5e-40	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+non-coding	CHS.33383	chr20:35153144-35171346:+	9e-31	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	4.17e-26	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.33384	chr20:35154276-35155289:+	2e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.33401	chr20:35610666-35613189:+	8e-35	EHH60624.1, hypothetical protein EGM_12020, partial [Macaca fascicularis]	2.29e-29	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+coding	CHS.33476	chr20:38456875-38462702:+	5e-94	BAD92674.1, similar to FKSG60, partial [Homo sapiens]	-	-
+non-coding	CHS.33565	chr20:43883657-43888766:-	8e-25	BAE90406.1, unnamed protein product [Macaca fascicularis]	6.55e-18	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.33568	chr20:44095560-44105589:-	3e-30	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	4.53e-25	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.33704	chr20:47831223-47834983:+	3e-54	XP_016793572.1, PREDICTED: uncharacterized protein LOC107970048 [Pan troglodytes]	-	-
+coding	CHS.33712	chr20:47975944-47979262:-	3e-73	AAI22556.1, Hypothetical LOC284749 [Homo sapiens]	-	-
+non-coding	CHS.33850	chr20:51575711-51593353:-	1e-37	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	4.37e-28	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.33890	chr20:53849803-53852808:+	3e-27	BAK63765.1, long-chain-fatty-acid--CoA ligase 3 [Pan troglodytes]	8.09e-16	sp|A0A096LPI5|GVQW2_HUMAN, Protein GVQW2 OS=Homo sapiens GN=GVQW2 PE=4 SV=1
+coding	CHS.3390	chr1:158114133-158130906:-	1e-42	CAI93472.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.33952	chr20:56736519-56742514:+	7e-39	EHH66747.1, hypothetical protein EGM_03796, partial [Macaca fascicularis]	4.29e-34	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.34074	chr20:60990583-60999330:-	6e-46	BAB15071.1, unnamed protein product [Homo sapiens]	1.39e-37	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.34098	chr20:62296531-62299283:+	3e-44	EAW75376.1, hCG2045304 [Homo sapiens]	-	-
+non-coding	CHS.34142	chr20:62794472-62796378:+	2e-17	CAF15934.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.34165	chr20:63179278-63194900:+	0.0	XP_016793801.1, PREDICTED: uncharacterized protein LOC107970094 [Pan troglodytes]	-	-
+non-coding	CHS.34185	chr20:63473519-63487152:-	4e-38	CAD69516.1, unnamed protein product [Homo sapiens]	3.69e-32	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.34328	chr21:8823086-8830703:+	3e-21	EAW81162.1, hCG1814203 [Homo sapiens]	-	-
+non-coding	CHS.34329	chr21:8832832-8836821:-	4e-22	EAW48919.1, hCG2028158, partial [Homo sapiens]	-	-
+coding	CHS.34351	chr21:10655400-10655643:-	2e-19	CCO13720.1, alternative protein DYZ1L18 [Homo sapiens]	-	-
+coding	CHS.34354	chr21:13354478-13380886:-	2e-51	EAW50643.1, hCG1996836, partial [Homo sapiens]	-	-
+non-coding	CHS.34415	chr21:17689125-17692345:+	2e-27	EAW67379.1, hCG2033106 [Homo sapiens]	-	-
+non-coding	CHS.34447	chr21:24375680-24379672:+	6e-17	EAX02587.1, hCG1816008 [Homo sapiens]	-	-
+coding	CHS.34454	chr21:25375948-25385896:+	7e-30	BAE91091.1, unnamed protein product [Macaca fascicularis]	5.17e-20	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.3451	chr1:159915303-159917741:-	9e-41	XP_004039184.2, PREDICTED: PDZ and LIM domain protein 5 isoform X7 [Gorilla gorilla gorilla]	5.88e-30	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.34608	chr21:32544879-32547178:+	2e-21	EHH18962.1, hypothetical protein EGK_19562, partial [Macaca mulatta]	3.81e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.34763	chr21:38959448-38961921:-	4e-36	BAE89454.1, unnamed protein product [Macaca fascicularis]	6.83e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.348	chr1:10382101-10397576:+	1e-37	BAE91091.1, unnamed protein product [Macaca fascicularis]	1.71e-24	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.34832	chr21:42315687-42320668:+	1e-34	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.78e-31	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.34846	chr21:42582920-42593369:-	2e-19	XP_007651339.1, PREDICTED: uncharacterized protein LOC103162174 isoform X1 [Cricetulus griseus]	-	-
+discard	CHS.34865	chr21:42966328-42968606:-	4e-18	CAD61445.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.34966	chr21:44825727-44833576:-	2e-19	CAF17724.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.3501	chr1:160981466-160994228:-	9e-35	EHH60624.1, hypothetical protein EGM_12020, partial [Macaca fascicularis]	4.34e-33	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+coding	CHS.35017	chr21:45577720-45582969:+	7e-98	XP_007968713.1, PREDICTED: uncharacterized protein LOC103220201 [Chlorocebus sabaeus]	-	-
+discard	CHS.3503	chr1:160989207-160991700:+	3e-32	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	3.66e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.35058	chr21:46667389-46668919:+	7e-99	EAX09257.1, hCG2040419 [Homo sapiens]	-	-
+discard	CHS.35076	chr21_KI270873v1_alt:85469-88529:+	2e-27	EAW67379.1, hCG2033106 [Homo sapiens]	-	-
+discard	CHS.35084	chr22:11024882-11039317:-	5e-21	BAE89454.1, unnamed protein product [Macaca fascicularis]	-	-
+coding	CHS.35087	chr22:11694652-11703419:+	0.0	XP_016885660.1, PREDICTED: DNA-directed RNA polymerase II subunit RPB1-like [Homo sapiens]	2.72e-16	sp|P14248|RPB1_PLAFD, DNA-directed RNA polymerase II subunit RPB1 OS=Plasmodium falciparum (isolate CDC / Honduras) GN=RPII PE=3 SV=1
+coding	CHS.35098	chr22:15726685-15742246:+	2e-36	XP_008017879.1, PREDICTED: uncharacterized protein LOC103247567 [Chlorocebus sabaeus]	-	-
+coding	CHS.35104	chr22:16354622-16354937:+	1e-20	CAF00704.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.35124	chr22:17269932-17288209:+	7e-43	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.06e-23	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.3526	chr1:161245791-161257604:+	1e-39	BAB01630.1, unnamed portein product [Macaca fascicularis]	1.09e-30	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.35278	chr22:21358193-21359247:+	3e-21	EHH24659.1, hypothetical protein EGK_08355, partial [Macaca mulatta]	-	-
+discard	CHS.353	chr1:10393446-10397981:-	3e-40	EHH20736.1, hypothetical protein EGK_03652, partial [Macaca mulatta]	1.55e-35	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.35301	chr22:21880713-21883599:+	4e-78	AAK21304.1, FKSG51 [Homo sapiens]	-	-
+discard	CHS.35302	chr22:21902017-21908156:+	9e-31	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	7.24e-16	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.3531	chr1:161291967-161296752:+	6e-19	EHH17260.1, hypothetical protein EGK_13613, partial [Macaca mulatta]	-	-
+non-coding	CHS.35312	chr22:22287766-22289898:+	3e-18	EHH57573.1, hypothetical protein EGM_07242, partial [Macaca fascicularis]	1.77e-17	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.35325	chr22:22731630-22733396:+	5e-66	CAF16836.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.35366	chr22:23735541-23738450:+	5e-18	CAE93864.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.35376	chr22:23844623-23856404:+	2e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.35377	chr22:23846875-23848787:-	2e-31	AAG35515.1, PRO2550 [Homo sapiens]	2.76e-21	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+discard	CHS.35378	chr22:23853657-23856311:-	1e-83	AAK08107.1, FKSG62 [Homo sapiens]	-	-
+non-coding	CHS.35396	chr22:24210947-24218963:-	5e-35	CAD69798.1, unnamed protein product [Homo sapiens]	2.83e-17	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.35397	chr22:24213280-24219651:+	6e-27	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	7.36e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.35459	chr22:26515680-26518714:+	1e-21	BAK63765.1, long-chain-fatty-acid--CoA ligase 3 [Pan troglodytes]	5.56e-18	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.35533	chr22:29324784-29326612:-	7e-32	BAE91654.1, unnamed protein product [Macaca fascicularis]	1.29e-22	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.35542	chr22:29496057-29500021:+	4e-28	CAF14822.1, unnamed protein product, partial [Homo sapiens]	6.52e-16	sp|Q96CB5|CH044_HUMAN, Putative uncharacterized protein C8orf44 OS=Homo sapiens GN=C8orf44 PE=2 SV=2
+discard	CHS.35543	chr22:29497654-29505392:-	3e-30	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	5.14e-28	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+coding	CHS.35601	chr22:30669709-30672513:+	4e-32	BAE01347.1, unnamed protein product [Macaca fascicularis]	-	-
+non-coding	CHS.35679	chr22:34624905-34633942:-	6e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.3569	chr1:162450438-162465298:-	2e-33	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.35698	chr22:35467962-35476027:+	4e-45	EHH54194.1, hypothetical protein EGM_14979, partial [Macaca fascicularis]	1.36e-34	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.35712	chr22:36050417-36053419:-	2e-39	EHH17280.1, hypothetical protein EGK_13646, partial [Macaca mulatta]	5.38e-27	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+discard	CHS.3575	chr1:162602018-162606761:+	3e-21	BAB21923.1, hypothetical protein [Macaca fascicularis]	-	-
+discard	CHS.35757	chr22:37109788-37110764:+	2e-26	EHH51986.1, hypothetical protein EGM_12342, partial [Macaca fascicularis]	1.92e-21	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.35790	chr22:37779289-37784601:-	3e-40	EHH17269.1, hypothetical protein EGK_13631, partial [Macaca mulatta]	1.19e-31	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+non-coding	CHS.35864	chr22:39211801-39219656:-	6e-33	EHH63636.1, hypothetical protein EGM_16643, partial [Macaca fascicularis]	3.53e-26	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.35870	chr22:39247946-39248740:-	3e-18	CAD61445.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.35920	chr22:40685044-40746643:+	1e-86	AAK08113.1, FKSG69 [Homo sapiens]	-	-
+non-coding	CHS.35921	chr22:40689768-40746436:-	2e-24	EHH61346.1, hypothetical protein EGM_19342, partial [Macaca fascicularis]	2.13e-18	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.35947	chr22:41414038-41430056:+	9e-24	BAB70813.1, unnamed protein product [Homo sapiens]	2.01e-16	sp|Q96CB5|CH044_HUMAN, Putative uncharacterized protein C8orf44 OS=Homo sapiens GN=C8orf44 PE=2 SV=2
+discard	CHS.35948	chr22:41422568-41429123:-	4e-41	EHH54194.1, hypothetical protein EGM_14979, partial [Macaca fascicularis]	2.28e-39	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.35954	chr22:41546223-41550746:-	1e-16	EHH50517.1, hypothetical protein EGM_01361, partial [Macaca fascicularis]	-	-
+discard	CHS.36030	chr22:43352767-43357119:-	5e-45	EHH59972.1, hypothetical protein EGM_10210, partial [Macaca fascicularis]	3.61e-34	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.36088	chr22:45449309-45451743:+	4e-36	EHH66747.1, hypothetical protein EGM_03796, partial [Macaca fascicularis]	5.22e-22	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+discard	CHS.36091	chr22:45461158-45465552:-	7e-22	EAW68605.1, hCG1820850 [Homo sapiens]	3.31e-16	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.36095	chr22:45607864-45611996:-	9e-33	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.23e-31	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.36174	chr22:48319814-48333201:-	4e-23	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+discard	CHS.36192	chr22:49329977-49345010:+	3e-38	AAB61715.1, unknown [Homo sapiens]	5.60e-36	sp|Q96MW7|TIGD1_HUMAN, Tigger transposable element-derived protein 1 OS=Homo sapiens GN=TIGD1 PE=1 SV=1
+non-coding	CHS.36224	chr22:49988882-49993299:-	4e-38	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.36230	chr22:50162302-50170332:+	6e-29	XP_017453279.1, PREDICTED: pollen-specific leucine-rich repeat extensin-like protein 3 isoform X1 [Rattus norvegicus]	1.33e-25	sp|P24587|AKAP5_RAT, A-kinase anchor protein 5 OS=Rattus norvegicus GN=Akap5 PE=1 SV=2
+discard	CHS.36249	chr22:50327163-50343224:-	1e-28	CAE90318.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.36278	chr22:50628248-50640398:-	2e-34	XP_005584617.2, PREDICTED: protein Wnt-9b isoform X1 [Macaca fascicularis]	4.39e-21	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.36279	chr22:50628270-50640280:+	2e-27	EAX05977.1, hCG2038848, partial [Homo sapiens]	-	-
+non-coding	CHS.36353	chr22_KI270879v1_alt:83237-85149:-	2e-31	AAG35515.1, PRO2550 [Homo sapiens]	2.76e-21	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+non-coding	CHS.36354	chr22_KI270879v1_alt:90164-92680:+	5e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.36355	chr22_KI270879v1_alt:90168-92655:-	1e-83	AAK08107.1, FKSG62 [Homo sapiens]	-	-
+non-coding	CHS.36386	chr2_GL383521v1_alt:14853-38668:-	2e-23	EHH16588.1, hypothetical protein EGK_11888, partial [Macaca mulatta]	2.06e-20	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.3643	chr1:167716123-167716903:-	1e-15	EAW54940.1, hCG2038983, partial [Homo sapiens]	-	-
+discard	CHS.36435	chr2_KI270894v1_alt:99038-101804:+	1e-17	CAE89781.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.3654	chr1:168207141-168209214:-	2e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.36542	chr3:9648561-9649301:+	3e-32	EHH60624.1, hypothetical protein EGM_12020, partial [Macaca fascicularis]	1.70e-28	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.36689	chr3:15529383-15535715:+	9e-29	EAX04538.1, hCG2000782 [Homo sapiens]	-	-
+discard	CHS.36707	chr3:16130821-16133766:-	9e-19	NP_001273418.1, transmembrane protein 14B isoform e [Homo sapiens]	-	-
+coding	CHS.36740	chr3:19614673-19702837:-	9e-37	EAW64298.1, hCG1811141 [Homo sapiens]	-	-
+discard	CHS.36879	chr3:32510481-32525117:-	9e-20	EAW55734.1, hCG2038067, partial [Homo sapiens]	2.10e-16	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.36882	chr3:32654211-32665033:+	1e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.36948	chr3:38030839-38036404:-	1e-30	EHH16412.1, hypothetical protein EGK_11692, partial [Macaca mulatta]	1.33e-25	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.37001	chr3:40491379-40496750:+	3e-19	EHH63249.1, hypothetical protein EGM_16173, partial [Macaca fascicularis]	6.93e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.37015	chr3:42002454-42011097:-	2e-21	EHH18962.1, hypothetical protein EGK_19562, partial [Macaca mulatta]	1.55e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.3717	chr1:171468593-171469365:-	6e-21	EHH19734.1, hypothetical protein EGK_02450, partial [Macaca mulatta]	2.89e-16	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.37173	chr3:46835111-46855015:-	4e-84	EAW64790.1, hCG1820565 [Homo sapiens]	-	-
+discard	CHS.37188	chr3:47486621-47494686:-	9e-25	EHH16997.1, hypothetical protein EGK_13278, partial [Macaca mulatta]	1.02e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.37192	chr3:47582091-47584632:-	1e-17	BAC05422.1, unnamed protein product [Homo sapiens]	9.67e-16	sp|Q96CB5|CH044_HUMAN, Putative uncharacterized protein C8orf44 OS=Homo sapiens GN=C8orf44 PE=2 SV=2
+discard	CHS.37256	chr3:49262028-49267783:+	3e-24	EAW62946.1, hCG2038800, partial [Homo sapiens]	1.80e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.374	chr1:11063249-11066558:-	5e-37	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.86e-29	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.37470	chr3:56722793-56727213:-	4e-17	CAF16398.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.37502	chr3:58327774-58328785:+	1e-44	EHH59972.1, hypothetical protein EGM_10210, partial [Macaca fascicularis]	1.10e-31	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.37532	chr3:61433818-61434786:+	1e-77	AAK21302.1, FKSG49 [Homo sapiens]	-	-
+non-coding	CHS.37570	chr3:65013731-65044098:+	1e-17	EHH24426.1, hypothetical protein EGK_08082, partial [Macaca mulatta]	-	-
+discard	CHS.37633	chr3:71653018-71656264:+	2e-20	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	5.02e-21	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.37636	chr3:71763029-71769445:+	2e-20	EHH60624.1, hypothetical protein EGM_12020, partial [Macaca fascicularis]	-	-
+discard	CHS.37637	chr3:71763790-71769489:-	3e-33	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+non-coding	CHS.37766	chr3:93841296-93841757:+	2e-25	EAW64334.1, hCG2041539, partial [Homo sapiens]	4.54e-20	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.37849	chr3:101021431-101128961:-	5e-18	BAE90771.1, unnamed protein product [Macaca fascicularis]	-	-
+coding	CHS.37871	chr3:101899239-101902311:-	2e-29	CAF01324.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.37936	chr3:108025650-108034991:+	3e-80	AAK08106.1, FKSG61 [Homo sapiens]	-	-
+discard	CHS.37959	chr3:109370932-109383069:+	1e-19	BAC85304.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.38030	chr3:113703845-113716411:+	1e-29	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+non-coding	CHS.38072	chr3:117413187-117421870:+	1e-29	EHH16412.1, hypothetical protein EGK_11692, partial [Macaca mulatta]	1.86e-24	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.38122	chr3:120138266-120140098:-	6e-27	EHH60591.1, hypothetical protein EGM_11981, partial [Macaca fascicularis]	4.01e-16	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.38131	chr3:120528349-120561207:-	2e-36	EHH31099.1, hypothetical protein EGK_20953, partial [Macaca mulatta]	2.17e-26	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.38155	chr3:122171364-122172955:-	2e-33	AAB61715.1, unknown [Homo sapiens]	1.64e-31	sp|Q96MW7|TIGD1_HUMAN, Tigger transposable element-derived protein 1 OS=Homo sapiens GN=TIGD1 PE=1 SV=1
+non-coding	CHS.38202	chr3:124749276-124752220:-	7e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.38203	chr3:124749750-124752064:+	2e-51	EAW93653.1, hCG2038420, partial [Homo sapiens]	-	-
+discard	CHS.3823	chr1:178653453-178655214:+	2e-16	CCO13814.1, alternative protein SKA1 [Homo sapiens]	-	-
+non-coding	CHS.38327	chr3:129197515-129203358:+	1e-34	BAH12795.1, unnamed protein product [Homo sapiens]	7.79e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.38339	chr3:129361089-129379978:-	2e-45	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.38341	chr3:129361090-129363172:+	5e-31	EAW93653.1, hCG2038420, partial [Homo sapiens]	-	-
+non-coding	CHS.38342	chr3:129365695-129377229:+	4e-24	EAW55411.1, hCG1979495 [Homo sapiens]	-	-
+non-coding	CHS.38430	chr3:134342685-134343014:+	5e-19	BAE90965.1, unnamed protein product [Macaca fascicularis]	-	-
+discard	CHS.38460	chr3:137011185-137191324:+	1e-15	BAC04924.1, unnamed protein product [Homo sapiens]	-	-
+coding	CHS.38532	chr3:141448741-141456436:-	2e-55	EAW79001.1, hCG2044139 [Homo sapiens]	-	-
+non-coding	CHS.38592	chr3:146251343-146251733:+	1e-40	BAE91091.1, unnamed protein product [Macaca fascicularis]	7.74e-25	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.3875	chr1:181067646-181071118:-	9e-23	EAW72525.1, hCG2042309, partial [Homo sapiens]	-	-
+non-coding	CHS.38858	chr3:163481757-163532942:+	2e-24	EHH31407.1, hypothetical protein EGK_12471, partial [Macaca mulatta]	3.96e-22	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+non-coding	CHS.39051	chr3:179535416-179536095:+	4e-37	BAB93502.1, OK/SW-CL.41 [Homo sapiens]	4.11e-33	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.3906	chr1:182372022-182376692:-	3e-40	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	1.10e-35	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.39082	chr3:181925349-181932073:+	9e-80	EAW57759.1, hCG2038827, partial [Homo sapiens]	-	-
+discard	CHS.39136	chr3:184197186-184199400:+	5e-42	CAD69798.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.39210	chr3:186923463-186924293:-	5e-43	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	4.54e-35	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+non-coding	CHS.39304	chr3:192112396-192125007:-	1e-47	CAF14840.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.39416	chr3:195915874-195920981:-	3e-42	EHH55556.1, hypothetical protein EGM_04788, partial [Macaca fascicularis]	8.31e-32	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.39430	chr3:196175067-196179494:+	5e-28	EHH18962.1, hypothetical protein EGK_19562, partial [Macaca mulatta]	1.93e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.39472	chr3:196968924-196982199:+	2e-34	EAW81162.1, hCG1814203 [Homo sapiens]	4.53e-23	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.39542	chr3_KI270784v1_alt:39711-45612:-	1e-20	EHH16558.1, hypothetical protein EGK_11851, partial [Macaca mulatta]	3.62e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.39684	chr4:2053592-2058612:+	2e-30	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	9.90e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.39738	chr4:3641596-3645001:+	4e-165	XP_016882996.1, PREDICTED: uncharacterized protein LOC107987263 [Homo sapiens]	-	-
+coding	CHS.39793	chr4:6245683-6255849:+	6e-29	EAW82399.1, hCG1761133 [Homo sapiens]	-	-
+coding	CHS.39891	chr4:9374626-9381368:-	3e-24	EAW88631.1, hCG2005545 [Homo sapiens]	-	-
+non-coding	CHS.39894	chr4:9593557-9628219:-	1e-26	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	7.29e-21	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+non-coding	CHS.39902	chr4:10059616-10067732:-	4e-23	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	3.33e-18	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.40133	chr4:29938183-29957142:+	1e-20	EHH15638.1, hypothetical protein EGK_01753, partial [Macaca mulatta]	1.20e-19	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.40137	chr4:30718805-30721970:-	8e-31	EPQ17012.1, hypothetical protein D623_10022276 [Myotis brandtii]	-	-
+coding	CHS.40154	chr4:33565671-33572485:+	3e-38	EAW92869.1, hCG2041968, partial [Homo sapiens]	-	-
+discard	CHS.40173	chr4:36787530-36835535:-	8e-27	EHH23602.1, hypothetical protein EGK_07095, partial [Macaca mulatta]	-	-
+non-coding	CHS.40201	chr4:38271796-38279882:-	9e-41	EHH20232.1, hypothetical protein EGK_03041, partial [Macaca mulatta]	8.92e-39	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.40218	chr4:38783547-38787216:+	6e-21	CAF00903.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.40227	chr4:39159153-39182206:-	1e-34	CAE89080.1, unnamed protein product [Homo sapiens]	8.98e-29	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.40284	chr4:42209055-42239304:+	1e-34	EHH59445.1, hypothetical protein EGM_09562, partial [Macaca fascicularis]	4.10e-29	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.40319	chr4:46124300-46167208:+	1e-16	BAE89731.1, unnamed protein product [Macaca fascicularis]	-	-
+coding	CHS.40354	chr4:49093241-49099885:+	8e-43	ELR57875.1, hypothetical protein M91_02367, partial [Bos mutus]	-	-
+coding	CHS.40355	chr4:49106407-49146184:+	3e-36	EFB25698.1, hypothetical protein PANDA_003603, partial [Ailuropoda melanoleuca]	-	-
+coding	CHS.40356	chr4:49111969-49120632:-	7e-20	ELR44520.1, hypothetical protein M91_06754, partial [Bos mutus]	-	-
+coding	CHS.40358	chr4:49150302-49150731:-	1e-20	CAF00752.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.40362	chr4:49253030-49257837:+	4e-21	EHH27277.1, hypothetical protein EGK_17439, partial [Macaca mulatta]	8.27e-16	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.40365	chr4:49317829-49327248:+	6e-68	XP_008972665.1, PREDICTED: uncharacterized protein LOC103786519 [Pan paniscus]	-	-
+coding	CHS.40366	chr4:49321186-49335310:-	3e-19	CAE92058.1, unnamed protein product [Homo sapiens]	-	-
+coding	CHS.40369	chr4:49643145-49651520:+	3e-16	CAF00752.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.40370	chr4:49644448-49648132:+	1e-19	CAF00752.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.4038	chr1:192955836-192966208:+	4e-19	XP_012358326.1, PREDICTED: zinc finger protein 714-like [Nomascus leucogenys]	-	-
+discard	CHS.40461	chr4:56633422-56641638:+	8e-29	BAC04924.1, unnamed protein product [Homo sapiens]	-	-
+coding	CHS.40499	chr4:62454161-62455344:-	8e-32	CAF15110.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.40504	chr4:63917932-63918807:-	9e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.40672	chr4:74921296-74933349:-	3e-33	BAE91091.1, unnamed protein product [Macaca fascicularis]	4.98e-24	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.40741	chr4:78548288-78549057:+	2e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.40791	chr4:82345981-82351002:+	5e-18	CAF17724.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.40794	chr4:82415346-82419741:+	1e-24	EHH21769.1, hypothetical protein EGK_04905, partial [Macaca mulatta]	2.11e-24	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+non-coding	CHS.40823	chr4:83403583-83407297:+	2e-39	BAC04924.1, unnamed protein product [Homo sapiens]	1.55e-23	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.4101	chr1:199077195-199081094:-	4e-27	EHH52072.1, hypothetical protein EGM_12441, partial [Macaca fascicularis]	1.20e-17	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.411	chr1:11893729-11897490:+	1e-15	EAW64091.1, hCG1813943 [Homo sapiens]	-	-
+discard	CHS.41156	chr4:115370228-115377003:+	1e-32	EHH20736.1, hypothetical protein EGK_03652, partial [Macaca mulatta]	1.77e-30	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.41227	chr4:121238037-121244857:+	7e-41	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+non-coding	CHS.41325	chr4:128627785-128644268:-	9e-23	EHH16412.1, hypothetical protein EGK_11692, partial [Macaca mulatta]	8.07e-21	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+coding	CHS.41343	chr4:130960426-130964254:+	1e-18	XP_017817320.1, PREDICTED: tigger transposable element-derived protein 1-like [Papio anubis]	-	-
+coding	CHS.41347	chr4:131723338-131754026:+	1e-18	CAF01471.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.4144	chr1:201448770-201451502:+	3e-31	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	9.14e-25	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.4145	chr1:201461166-201464146:-	5e-18	CAE98832.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.4148	chr1:201469293-201473093:+	5e-23	EAX00825.1, hCG1989288, partial [Homo sapiens]	2.36e-19	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+non-coding	CHS.41549	chr4:148444160-148490456:+	6e-30	BAC04924.1, unnamed protein product [Homo sapiens]	1.33e-16	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.41575	chr4:151390907-151391794:+	3e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.41584	chr4:151988526-152045275:+	3e-22	XP_011904442.1, PREDICTED: uncharacterized protein LOC105580708 isoform X6 [Cercocebus atys]	-	-
+discard	CHS.41700	chr4:159522681-159525304:+	1e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.41733	chr4:165017605-165025641:-	5e-20	EAX05948.1, hCG2027609 [Homo sapiens]	-	-
+discard	CHS.41795	chr4:170036196-170039342:-	6e-22	CAE98892.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.41899	chr4:180787303-180830934:-	1e-30	BAH12795.1, unnamed protein product [Homo sapiens]	6.31e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.41901	chr4:180943541-180944484:-	2e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.41986	chr4:184964316-184977078:-	5e-41	ELR54554.1, hypothetical protein M91_02192, partial [Bos mutus]	-	-
+coding	CHS.42068	chr4:189006940-189015041:-	3e-20	ELR54350.1, hypothetical protein M91_19196 [Bos mutus]	-	-
+coding	CHS.42075	chr4:189305641-189310839:+	3e-38	EPY89343.1, hypothetical protein CB1_000114007 [Camelus ferus]	-	-
+coding	CHS.42091	chr4_GL000008v2_random:116291-122561:-	2e-47	EAW55841.1, hCG2038218, partial [Homo sapiens]	-	-
+discard	CHS.42093	chr4_GL000008v2_random:185413-208767:-	2e-35	EHH55734.1, hypothetical protein EGM_04997, partial [Macaca fascicularis]	9.53e-35	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.42185	chr5:1185599-1193825:-	2e-162	EAX08176.1, hCG2038677, partial [Homo sapiens]	-	-
+discard	CHS.4219	chr1:203326927-203333751:+	3e-19	CAF15841.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.42191	chr5:1345184-1356092:+	8e-26	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+coding	CHS.42201	chr5:1556828-1561482:-	4e-109	EAX08152.1, hCG1820580 [Homo sapiens]	-	-
+coding	CHS.42207	chr5:1639622-1641019:-	3e-25	EAW92237.1, hCG2045553 [Homo sapiens]	-	-
+discard	CHS.42226	chr5:2015523-2017579:+	2e-31	CAJ42752.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.42233	chr5:2558680-2561480:+	6e-29	BAB21923.1, hypothetical protein [Macaca fascicularis]	-	-
+discard	CHS.4228	chr1:203518601-203521985:-	4e-32	EAW97718.1, 5'-nucleotidase domain containing 3, isoform CRA_d [Homo sapiens]	-	-
+non-coding	CHS.4230	chr1:203523035-203556246:-	6e-30	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	7.12e-22	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.4237	chr1:203854501-203857849:+	4e-31	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.44e-22	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.4241	chr1:203918583-203919824:+	1e-81	AAK21302.1, FKSG49 [Homo sapiens]	-	-
+discard	CHS.4244	chr1:204065509-204069807:+	2e-28	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	5.55e-18	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.42518	chr5:30197951-30215835:+	3e-21	CAE92120.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.42522	chr5:31081183-31087175:-	3e-18	EAW54808.1, hCG2038449, partial [Homo sapiens]	-	-
+discard	CHS.42526	chr5:31363490-31386938:+	1e-23	CAF01537.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.42538	chr5:32204281-32213665:+	8e-35	AAM46782.1, hepatocellular carcinoma-associated antigen HCA25a [Homo sapiens]	-	-
+coding	CHS.42556	chr5:33365206-33380302:-	9e-18	XP_017817320.1, PREDICTED: tigger transposable element-derived protein 1-like [Papio anubis]	-	-
+discard	CHS.42582	chr5:34900558-34904509:-	5e-54	AAG35515.1, PRO2550 [Homo sapiens]	2.40e-33	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.42598	chr5:35592888-35608650:-	5e-41	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	3.25e-34	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.42715	chr5:42248388-42270876:-	6e-22	EAW60027.1, hCG1820543 [Homo sapiens]	-	-
+coding	CHS.42769	chr5:47524344-47526458:+	2e-31	EGV91149.1, hypothetical protein I79_026257 [Cricetulus griseus]	-	-
+coding	CHS.42770	chr5:49601095-49603132:+	3e-20	CAF00752.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.42772	chr5:49611408-49614603:-	1e-32	EGV91149.1, hypothetical protein I79_026257 [Cricetulus griseus]	-	-
+coding	CHS.42773	chr5:49616430-49633415:-	3e-32	EGV91149.1, hypothetical protein I79_026257 [Cricetulus griseus]	-	-
+coding	CHS.42774	chr5:49623051-49627087:-	5e-30	EGV91149.1, hypothetical protein I79_026257 [Cricetulus griseus]	-	-
+coding	CHS.42775	chr5:49643669-49646560:-	9e-32	EGV91149.1, hypothetical protein I79_026257 [Cricetulus griseus]	-	-
+coding	CHS.42777	chr5:49656374-49660501:-	7e-22	CAF00752.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.42822	chr5:54656656-54657056:+	7e-31	EHH16997.1, hypothetical protein EGK_13278, partial [Macaca mulatta]	1.69e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.42836	chr5:55214248-55218498:+	1e-28	EHH61346.1, hypothetical protein EGM_19342, partial [Macaca fascicularis]	8.27e-20	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+non-coding	CHS.42859	chr5:56013914-56015998:-	8e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.43041	chr5:68322491-68332679:-	5e-42	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+non-coding	CHS.43117	chr5:72063669-72064545:+	2e-16	EHH15918.1, hypothetical protein EGK_02088, partial [Macaca mulatta]	-	-
+non-coding	CHS.43127	chr5:72532126-72532814:-	7e-32	EHH20232.1, hypothetical protein EGK_03041, partial [Macaca mulatta]	1.03e-22	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.43145	chr5:73334810-73337272:+	4e-18	BAE91108.1, unnamed protein product [Macaca fascicularis]	7.99e-17	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.43206	chr5:76774205-76818438:-	6e-84	AAK21302.1, FKSG49 [Homo sapiens]	-	-
+non-coding	CHS.43209	chr5:76811225-76818337:+	2e-23	EAX05948.1, hCG2027609 [Homo sapiens]	-	-
+discard	CHS.43214	chr5:76984300-77010575:+	4e-21	CAE98662.1, unnamed protein product, partial [Homo sapiens]	3.24e-19	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.43292	chr5:81930896-81931700:+	6e-36	BAB93502.1, OK/SW-CL.41 [Homo sapiens]	1.30e-23	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.433	chr1:12512562-12523273:-	6e-43	CAD69516.1, unnamed protein product [Homo sapiens]	4.94e-40	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.43402	chr5:91283620-91299104:-	2e-45	CAD69516.1, unnamed protein product [Homo sapiens]	3.53e-35	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.43406	chr5:91325054-91327784:+	2e-21	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	3.40e-19	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.43561	chr5:108382147-108418071:+	3e-37	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	8.32e-25	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.43623	chr5:112953029-112954570:+	8e-35	EAW65946.1, chromosome 14 open reading frame 126, isoform CRA_b [Homo sapiens]	-	-
+discard	CHS.43798	chr5:126837009-126859960:-	3e-35	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.84e-33	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.43850	chr5:131211232-131219418:-	6e-28	EHH21360.1, hypothetical protein EGK_04398, partial [Macaca mulatta]	1.25e-19	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+non-coding	CHS.4394	chr1:208455308-208456135:-	2e-45	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	3.60e-33	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.44033	chr5:137755136-137760973:-	2e-26	XP_004319824.1, PREDICTED: SCAN domain-containing protein 3-like [Tursiops truncatus]	9.79e-16	sp|Q6R2W3|SCND3_HUMAN, SCAN domain-containing protein 3 OS=Homo sapiens GN=ZBED9 PE=2 SV=1
+non-coding	CHS.44047	chr5:138111738-138115147:+	2e-34	EAW81162.1, hCG1814203 [Homo sapiens]	1.05e-23	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.44064	chr5:138491229-138506171:+	6e-35	CAE90316.1, unnamed protein product [Homo sapiens]	1.03e-28	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.4415	chr1:209440539-209444409:-	4e-29	EHH16997.1, hypothetical protein EGK_13278, partial [Macaca mulatta]	8.08e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.44226	chr5:141842941-141850501:+	6e-33	EHH64557.1, hypothetical protein EGM_17802, partial [Macaca fascicularis]	4.93e-30	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.44229	chr5:141883369-141893857:+	1e-30	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+discard	CHS.44241	chr5:142074665-142077456:-	3e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.44256	chr5:142762247-142766930:+	1e-43	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	7.76e-30	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+non-coding	CHS.44369	chr5:149642308-149647094:+	1e-16	BAB93502.1, OK/SW-CL.41 [Homo sapiens]	-	-
+non-coding	CHS.44424	chr5:151161754-151168295:+	1e-21	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	-	-
+non-coding	CHS.44426	chr5:151172005-151180125:-	3e-28	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	7.00e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.44503	chr5:157080239-157084078:-	1e-28	EHH16412.1, hypothetical protein EGK_11692, partial [Macaca mulatta]	4.60e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.44644	chr5:168641445-168644365:-	3e-40	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.44747	chr5:173045712-173047640:+	5e-28	XP_015307366.1, PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein LOC102133690, partial [Macaca fascicularis]	-	-
+non-coding	CHS.44776	chr5:173766734-173767304:-	4e-26	BAE89454.1, unnamed protein product [Macaca fascicularis]	-	-
+discard	CHS.44799	chr5:174569696-174578480:-	2e-20	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	-	-
+non-coding	CHS.44831	chr5:176214805-176216390:+	6e-38	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.44864	chr5:177323850-177326539:-	2e-33	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	3.10e-26	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.44936	chr5:179528137-179534043:-	1e-20	AAX18642.1, cell growth-inhibiting protein 48b [Homo sapiens]	-	-
+discard	CHS.44960	chr5:180088423-180096129:+	2e-25	EHH64004.1, hypothetical protein EGM_17106, partial [Macaca fascicularis]	2.09e-19	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.45000	chr5:181218562-181219902:-	1e-18	CAF16051.2, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.45227	chr6:3882056-3888857:-	4e-57	XP_014990973.1, PREDICTED: uncharacterized protein LOC106997773 [Macaca mulatta]	-	-
+discard	CHS.45232	chr6:3980027-4021998:-	1e-23	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.95e-22	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.45292	chr6:6855442-6871100:-	4e-16	CAF17612.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.45299	chr6:6955929-6969909:-	1e-28	EHH27543.1, hypothetical protein EGK_17760, partial [Macaca mulatta]	1.48e-23	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.4530	chr1:214271543-214281000:+	4e-33	EAW48014.1, hCG2030582 [Homo sapiens]	-	-
+discard	CHS.45408	chr6:11929485-11932916:-	5e-30	CAE98892.1, unnamed protein product, partial [Homo sapiens]	1.62e-19	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.45413	chr6:12229683-12249984:+	8e-34	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	8.42e-23	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.45490	chr6:15188153-15190931:+	1e-50	AAM46782.1, hepatocellular carcinoma-associated antigen HCA25a [Homo sapiens]	-	-
+discard	CHS.45567	chr6:19940155-19941187:+	4e-39	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.45801	chr6:28500025-28503108:-	5e-41	EAW57759.1, hCG2038827, partial [Homo sapiens]	-	-
+non-coding	CHS.45849	chr6:29717709-29720274:+	3e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.45908	chr6:30691912-30692361:-	2e-38	BAE89454.1, unnamed protein product [Macaca fascicularis]	-	-
+non-coding	CHS.45928	chr6:30980724-30982215:+	1e-30	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	1.13e-21	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.45930	chr6:30992592-30993904:-	3e-44	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.45934	chr6:31065345-31068218:-	2e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.45935	chr6:31068368-31070727:+	1e-26	CAD69816.1, unnamed protein product [Homo sapiens]	9.48e-23	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.45945	chr6:31192157-31193108:+	1e-24	CAE92120.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.46361	chr6:42195362-42203936:-	3e-34	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	1.11e-25	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.46364	chr6:42198697-42206754:+	3e-38	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	8.94e-34	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.46411	chr6:43425344-43426706:+	1e-38	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.46443	chr6:44090785-44105440:-	1e-43	ABB90708.1, unknown [Homo sapiens]	-	-
+non-coding	CHS.46444	chr6:44090790-44102774:+	4e-19	CAF17724.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.46516	chr6:47850620-47852042:+	1e-45	CAF15866.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.46556	chr6:52209996-52213904:+	1e-58	BAK63142.1, hypothetical protein [Pan troglodytes]	-	-
+non-coding	CHS.46577	chr6:52815288-52827278:+	1e-39	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.4661	chr1:223204114-223218691:+	7e-25	BAB70813.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.46756	chr6:73590922-73591598:+	2e-55	EHH66747.1, hypothetical protein EGM_03796, partial [Macaca fascicularis]	1.55e-24	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+coding	CHS.46799	chr6:79078610-79151532:+	3e-34	EAW48716.1, hCG2032059 [Homo sapiens]	-	-
+coding	CHS.46818	chr6:80079391-80084769:-	9e-40	CAF17400.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.46916	chr6:87734948-87742282:-	4e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.4698	chr1:224858357-224860217:-	9e-52	CAF17389.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.47035	chr6:98959043-99007986:+	3e-22	EHH24659.1, hypothetical protein EGK_08355, partial [Macaca mulatta]	-	-
+non-coding	CHS.47077	chr6:105188033-105223321:-	5e-37	XP_008977846.2, PREDICTED: LOW QUALITY PROTEIN: protein GVQW1 [Callithrix jacchus]	4.38e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.47114	chr6:106848622-106872287:-	7e-34	EHH14529.1, hypothetical protein EGK_00471, partial [Macaca mulatta]	1.14e-25	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.47127	chr6:107672838-107683464:+	2e-18	EHH61346.1, hypothetical protein EGM_19342, partial [Macaca fascicularis]	8.77e-16	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.47138	chr6:108261341-108271238:+	2e-39	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+non-coding	CHS.4720	chr1:226005212-226058170:+	3e-29	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	5.27e-24	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.47228	chr6:112508333-112528323:-	2e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.4723	chr1:226072137-226075511:+	1e-30	EHH16588.1, hypothetical protein EGK_11888, partial [Macaca mulatta]	1.02e-29	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.47237	chr6:113083915-113091198:-	1e-39	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	1.94e-30	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+coding	CHS.4725	chr1:226093852-226105555:+	2e-18	CAF00903.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.4726	chr1:226112025-226115946:+	5e-82	AAK21305.1, FKSG52 [Homo sapiens]	-	-
+non-coding	CHS.4727	chr1:226112294-226115991:-	5e-44	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.4733	chr1:226138962-226142697:+	4e-27	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	1.94e-20	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.47373	chr6:122847704-122850303:-	6e-51	AAM46782.1, hepatocellular carcinoma-associated antigen HCA25a [Homo sapiens]	-	-
+non-coding	CHS.47397	chr6:125777205-125778007:+	3e-18	EHH15138.1, hypothetical protein EGK_01187, partial [Macaca mulatta]	-	-
+non-coding	CHS.47513	chr6:133898738-133901816:+	2e-29	CAE98892.1, unnamed protein product, partial [Homo sapiens]	8.73e-17	sp|E7EU14|PP5D1_HUMAN, Protein PPP5D1 OS=Homo sapiens GN=PPP5D1 PE=2 SV=2
+non-coding	CHS.47566	chr6:136336679-136339440:+	1e-33	XP_010341849.1, PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein LOC101031272 [Saimiri boliviensis boliviensis]	2.03e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.47576	chr6:136965368-136971840:-	2e-35	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.01e-28	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.47699	chr6:143413737-143422767:-	7e-37	EHH60697.1, hypothetical protein EGM_18538, partial [Macaca fascicularis]	2.32e-28	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+non-coding	CHS.47824	chr6:151391720-151403495:+	9e-30	EHH59362.1, hypothetical protein EGM_09449, partial [Macaca fascicularis]	5.12e-24	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.47825	chr6:151391730-151404046:-	5e-25	XP_017715572.1, PREDICTED: putative uncharacterized protein encoded by LINC00269, partial [Rhinopithecus bieti]	7.79e-21	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.47828	chr6:151474433-151478518:+	2e-23	EHH14291.1, hypothetical protein EGK_00186, partial [Macaca mulatta]	-	-
+non-coding	CHS.47899	chr6:157234242-157235955:+	7e-20	EHH21360.1, hypothetical protein EGK_04398, partial [Macaca mulatta]	1.19e-18	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.47905	chr6:157374049-157381088:-	0.0	BAC86228.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.47922	chr6:158207402-158231968:+	5e-34	EAW68953.1, hCG1814039, partial [Homo sapiens]	1.84e-33	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.47935	chr6:158861174-158863049:-	8e-27	EAW99473.1, hCG2038249, partial [Homo sapiens]	-	-
+discard	CHS.47956	chr6:159619695-159630749:-	3e-28	CAE98892.1, unnamed protein product, partial [Homo sapiens]	1.27e-16	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.47957	chr6:159635275-159641761:-	1e-30	EHH66749.1, hypothetical protein EGM_03798, partial [Macaca fascicularis]	1.00e-20	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.47994	chr6:161274962-161315245:-	2e-74	BAC85768.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.48062	chr6:166284049-166294164:+	5e-32	EHH54194.1, hypothetical protein EGM_14979, partial [Macaca fascicularis]	8.39e-26	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.48137	chr6:168375569-168384900:-	2e-20	EAW68204.1, hCG2033532 [Homo sapiens]	-	-
+discard	CHS.4818	chr1:228892926-228948703:-	3e-23	EHH56016.1, hypothetical protein EGM_05345, partial [Macaca fascicularis]	-	-
+coding	CHS.48185	chr6:170088077-170093403:+	4e-174	XP_016885868.1, PREDICTED: uncharacterized protein LOC107987509 [Homo sapiens]	-	-
+coding	CHS.48186	chr6:170135612-170144217:+	3e-25	XP_017449984.1, PREDICTED: endochitinase A1-like [Rattus norvegicus]	-	-
+coding	CHS.48187	chr6:170137288-170140270:-	5e-18	XP_011230631.1, PREDICTED: protein ripply2 [Ailuropoda melanoleuca]	-	-
+discard	CHS.48206	chr6:170421590-170423930:-	6e-28	CAF16051.2, unnamed protein product, partial [Homo sapiens]	1.70e-17	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.48286	chr6_GL000250v2_alt:2398036-2400742:-	2e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.48442	chr6_GL000251v2_alt:2547829-2550617:-	9e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.48443	chr6_GL000251v2_alt:2550677-2554463:+	1e-26	CAD69816.1, unnamed protein product [Homo sapiens]	1.10e-22	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.48505	chr6_GL000251v2_alt:3330121-3331751:-	6e-25	AAM46782.1, hepatocellular carcinoma-associated antigen HCA25a [Homo sapiens]	-	-
+discard	CHS.48929	chr6_GL000253v2_alt:3158223-3161913:-	6e-25	AAM46782.1, hepatocellular carcinoma-associated antigen HCA25a [Homo sapiens]	-	-
+coding	CHS.49032	chr6_GL000254v2_alt:1495025-1495674:+	7e-62	EAX03267.1, hCG2005032 [Homo sapiens]	-	-
+discard	CHS.49118	chr6_GL000254v2_alt:3194655-3198767:-	6e-25	AAM46782.1, hepatocellular carcinoma-associated antigen HCA25a [Homo sapiens]	-	-
+discard	CHS.4917	chr1:233535897-233547708:+	1e-36	EAW64637.1, hCG2039009, partial [Homo sapiens]	8.10e-28	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.49280	chr6_GL000255v2_alt:2324288-2326226:-	6e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.49289	chr6_GL000255v2_alt:2450072-2451509:+	1e-24	CAE92120.1, unnamed protein product [Homo sapiens]	-	-
+coding	CHS.49460	chr6_GL000256v2_alt:1449856-1450524:+	7e-62	EAX03267.1, hCG2005032 [Homo sapiens]	-	-
+non-coding	CHS.49492	chr6_GL000256v2_alt:2369196-2371642:-	2e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.49493	chr6_GL000256v2_alt:2371722-2374138:+	4e-23	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	2.07e-20	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.49664	chr7:269445-271971:+	1e-20	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	1.09e-16	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.49667	chr7:333710-341884:+	1e-21	CAD70031.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.49698	chr7:1139385-1148226:-	5e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.49699	chr7:1139394-1146407:+	1e-83	AAK08107.1, FKSG62 [Homo sapiens]	-	-
+non-coding	CHS.49700	chr7:1146606-1148239:+	5e-63	EAW57759.1, hCG2038827, partial [Homo sapiens]	-	-
+discard	CHS.49743	chr7:2448999-2464086:+	6e-62	EAW87247.1, hCG1998994, partial [Homo sapiens]	-	-
+discard	CHS.49744	chr7:2450179-2452547:+	4e-19	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	-	-
+discard	CHS.49745	chr7:2452990-2456745:+	2e-17	EHH27424.1, hypothetical protein EGK_17617, partial [Macaca mulatta]	1.26e-16	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.49747	chr7:2476900-2484302:+	3e-42	EHH50883.1, hypothetical protein EGM_01778, partial [Macaca fascicularis]	2.08e-36	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.49753	chr7:2533377-2537772:+	2e-84	AAK08107.1, FKSG62 [Homo sapiens]	-	-
+non-coding	CHS.49754	chr7:2533446-2537395:-	5e-44	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.49776	chr7:3202590-3221575:-	6e-23	EHH57996.1, hypothetical protein EGM_07753, partial [Macaca fascicularis]	-	-
+non-coding	CHS.49781	chr7:4434296-4482342:+	3e-32	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	3.62e-31	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.49787	chr7:4629530-4633456:+	1e-46	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	2.67e-42	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.49803	chr7:5149746-5155472:+	7e-17	AAX18642.1, cell growth-inhibiting protein 48b [Homo sapiens]	-	-
+discard	CHS.49825	chr7:5781799-5790133:+	2e-30	EHH22620.1, hypothetical protein EGK_05928, partial [Macaca mulatta]	5.93e-31	sp|A0A096LPI5|GVQW2_HUMAN, Protein GVQW2 OS=Homo sapiens GN=GVQW2 PE=4 SV=1
+discard	CHS.49845	chr7:6373235-6374175:+	4e-24	EHH55734.1, hypothetical protein EGM_04997, partial [Macaca fascicularis]	5.15e-24	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.49851	chr7:6491830-6495696:+	9e-46	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	3.13e-33	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.4997	chr1:235346997-235359925:-	4e-45	EHH66747.1, hypothetical protein EGM_03796, partial [Macaca fascicularis]	2.80e-21	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.50039	chr7:20288370-20288678:-	2e-31	EHH29075.1, hypothetical protein EGK_09403, partial [Macaca mulatta]	7.30e-27	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+coding	CHS.50308	chr7:32838959-32844560:+	1e-35	EAW93999.1, hCG2010098 [Homo sapiens]	-	-
+discard	CHS.50327	chr7:33831622-33834051:+	9e-32	EHH60697.1, hypothetical protein EGM_18538, partial [Macaca fascicularis]	2.19e-24	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.50374	chr7:36838119-36838675:+	2e-28	EAW48014.1, hCG2030582 [Homo sapiens]	-	-
+non-coding	CHS.50516	chr7:44575835-44577877:+	3e-32	XP_016791645.1, PREDICTED: carcinoembryonic antigen-related cell adhesion molecule 19 isoform X6 [Pan troglodytes]	5.90e-21	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.5063	chr1:241481739-241496133:+	1e-33	EHH54354.1, hypothetical protein EGM_15176, partial [Macaca fascicularis]	7.12e-27	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.50644	chr7:54621689-54654249:+	1e-26	EHH64951.1, hypothetical protein EGM_18285, partial [Macaca fascicularis]	9.70e-20	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+coding	CHS.50645	chr7:54676151-54679445:+	4e-40	AAB61715.1, unknown [Homo sapiens]	3.03e-36	sp|Q96MW7|TIGD1_HUMAN, Tigger transposable element-derived protein 1 OS=Homo sapiens GN=TIGD1 PE=1 SV=1
+discard	CHS.50679	chr7:56150872-56153377:+	2e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.50708	chr7:57663367-57669239:+	6e-22	EAW91517.1, hCG1820395 [Homo sapiens]	-	-
+discard	CHS.50733	chr7:63867603-63875584:+	6e-35	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.50749	chr7:64492176-64496654:+	3e-18	EHH18929.1, hypothetical protein EGK_19508, partial [Macaca mulatta]	-	-
+non-coding	CHS.50778	chr7:65816762-65828006:+	2e-24	BAG57183.1, unnamed protein product [Homo sapiens]	2.25e-23	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.50809	chr7:67240225-67249038:+	2e-28	EHH63176.1, hypothetical protein EGM_16090, partial [Macaca fascicularis]	3.19e-20	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.50810	chr7:67243782-67250341:+	2e-38	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	5.27e-16	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.50815	chr7:67340495-67345313:-	3e-32	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	4.42e-27	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+non-coding	CHS.50817	chr7:67361803-67522131:+	3e-26	EAW78227.1, hCG1811714 [Homo sapiens]	-	-
+non-coding	CHS.50823	chr7:68677469-68678806:-	1e-16	CAE90200.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.5083	chr1:242676203-242683251:-	2e-31	BAC41742.1, hypothetical protein [Macaca fascicularis]	2.29e-22	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.50836	chr7:70927201-70931646:+	1e-31	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	2.05e-24	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.50844	chr7:72871429-72874057:-	5e-54	CCQ43957.1, alternative protein LOC442572 [Homo sapiens]	-	-
+non-coding	CHS.50857	chr7:73111991-73129086:-	6e-40	CAD69516.1, unnamed protein product [Homo sapiens]	4.93e-34	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.50858	chr7:73114596-73127577:+	4e-26	CAE91527.1, unnamed protein product [Homo sapiens]	1.98e-18	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+non-coding	CHS.50859	chr7:73137949-73139145:+	3e-40	XP_016809897.1, PREDICTED: zinc finger protein 454 isoform X2 [Pan troglodytes]	2.21e-25	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.50862	chr7:73281719-73283865:-	2e-37	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.50873	chr7:73523599-73534522:+	1e-49	EHH64004.1, hypothetical protein EGM_17106, partial [Macaca fascicularis]	1.96e-38	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.50874	chr7:73527280-73528139:-	7e-26	CAF14822.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.50882	chr7:73674466-73682326:+	2e-28	EAW97718.1, 5'-nucleotidase domain containing 3, isoform CRA_d [Homo sapiens]	-	-
+discard	CHS.50891	chr7:73741328-73757466:+	3e-53	EHH65544.1, hypothetical protein EGM_02322, partial [Macaca fascicularis]	1.11e-16	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+discard	CHS.50911	chr7:74274387-74280035:-	5e-32	EHH20263.1, hypothetical protein EGK_03078, partial [Macaca mulatta]	2.87e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.50931	chr7:74851985-74881919:+	3e-28	AAG35515.1, PRO2550 [Homo sapiens]	7.71e-20	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.50932	chr7:74862970-74878751:-	9e-23	EHH14291.1, hypothetical protein EGK_00186, partial [Macaca mulatta]	1.98e-19	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.50935	chr7:74926017-74937796:+	1e-27	EAW95069.1, hCG1818479 [Homo sapiens]	4.28e-23	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.50936	chr7:74926967-74935232:-	6e-40	CAD69516.1, unnamed protein product [Homo sapiens]	4.93e-34	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.50946	chr7:75237741-75242172:+	4e-30	EHH22620.1, hypothetical protein EGK_05928, partial [Macaca mulatta]	1.54e-23	sp|A0A096LPI5|GVQW2_HUMAN, Protein GVQW2 OS=Homo sapiens GN=GVQW2 PE=4 SV=1
+discard	CHS.50947	chr7:75241122-75280816:+	6e-40	CAD69516.1, unnamed protein product [Homo sapiens]	4.93e-34	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.50948	chr7:75255387-75271890:-	1e-32	EHH59362.1, hypothetical protein EGM_09449, partial [Macaca fascicularis]	4.21e-31	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.50949	chr7:75265099-75278445:-	1e-24	EHH66747.1, hypothetical protein EGM_03796, partial [Macaca fascicularis]	-	-
+non-coding	CHS.50963	chr7:75826457-75828681:-	1e-32	EHH20263.1, hypothetical protein EGK_03078, partial [Macaca mulatta]	8.30e-27	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.50973	chr7:76084347-76086731:-	1e-15	CAF15791.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.50997	chr7:76454527-76455895:-	1e-15	BAE88482.1, unnamed protein product [Macaca fascicularis]	-	-
+non-coding	CHS.50998	chr7:76459758-76461397:+	1e-17	EHH64004.1, hypothetical protein EGM_17106, partial [Macaca fascicularis]	-	-
+non-coding	CHS.5101	chr1:244167034-244193666:-	2e-29	BAB70813.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.51023	chr7:77531782-77536886:-	6e-48	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.51093	chr7:85770653-85824528:+	6e-29	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	4.57e-16	sp|P51957|NEK4_HUMAN, Serine/threonine-protein kinase Nek4 OS=Homo sapiens GN=NEK4 PE=1 SV=2
+non-coding	CHS.51157	chr7:91880804-91890363:+	6e-38	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.51158	chr7:91885582-91889945:-	7e-152	XP_012364106.1, PREDICTED: LOW QUALITY PROTEIN: collagen alpha-1(I) chain-like [Nomascus leucogenys]	-	-
+non-coding	CHS.5119	chr1:244815772-244830536:+	3e-23	CAF15934.1, unnamed protein product, partial [Homo sapiens]	6.03e-18	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.51222	chr7:95550522-95551280:+	2e-30	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	9.04e-29	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.51345	chr7:100273969-100282491:-	3e-33	AAG35479.1, PRO0898 [Homo sapiens]	-	-
+non-coding	CHS.51363	chr7:100503162-100509607:-	6e-25	EHH14291.1, hypothetical protein EGK_00186, partial [Macaca mulatta]	7.77e-22	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.51422	chr7:101356127-101360514:-	8e-44	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.51606	chr7:114846129-114901990:-	4e-38	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+non-coding	CHS.51607	chr7:114916334-114922042:+	9e-37	CAE98607.1, unnamed protein product, partial [Homo sapiens]	5.35e-26	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.51762	chr7:128134524-128201271:+	1e-24	BAC04924.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.51817	chr7:129216234-129217021:+	8e-32	P61583.1, RecName: Full=Endogenous retrovirus group K member 5 Np9 protein; AltName: Full=Endogenous retrovirus K protein 5; AltName: Full=HERV-K(II) Np9 protein; AltName: Full=HERV-K_3q12.3 provirus Np9 protein	2.89e-34	sp|P61583|NP5_HUMAN, Endogenous retrovirus group K member 5 Np9 protein OS=Homo sapiens GN=ERVK-5 PE=3 SV=1
+non-coding	CHS.51958	chr7:137846896-137861618:+	2e-34	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	2.20e-16	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.52009	chr7:140428143-140433132:-	4e-83	AAK08109.1, FKSG65 [Homo sapiens]	-	-
+non-coding	CHS.52139	chr7:145784970-146047718:+	3e-25	EHH51985.1, hypothetical protein EGM_12341, partial [Macaca fascicularis]	8.61e-25	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.52141	chr7:146071803-146090642:+	2e-16	AAF69654.1, PRO2822 [Homo sapiens]	-	-
+non-coding	CHS.52163	chr7:148964793-148966331:-	6e-22	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	9.86e-18	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.52167	chr7:149057115-149065913:-	6e-23	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	7.07e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.52196	chr7:149739893-149746440:-	2e-37	EAW91517.1, hCG1820395 [Homo sapiens]	6.19e-30	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.52297	chr7:152584634-152587192:-	5e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.52298	chr7:152585790-152587196:+	2e-61	EAW57759.1, hCG2038827, partial [Homo sapiens]	-	-
+discard	CHS.52401	chr7:157421698-157445216:-	1e-28	EHH64738.1, hypothetical protein EGM_18043, partial [Macaca fascicularis]	3.77e-22	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+coding	CHS.52402	chr7:157430527-157445794:+	8e-32	XP_011728234.1, PREDICTED: leucine-rich repeat extensin-like protein 5 [Macaca nemestrina]	-	-
+coding	CHS.52508	chr8:299021-301251:-	7e-63	EAW56318.1, hCG1995883 [Homo sapiens]	-	-
+non-coding	CHS.52673	chr8:9119541-9126298:-	2e-16	EAW65432.1, hCG2038442, partial [Homo sapiens]	-	-
+non-coding	CHS.52834	chr8:18033988-18055052:-	9e-40	EHH66747.1, hypothetical protein EGM_03796, partial [Macaca fascicularis]	4.81e-25	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.52837	chr8:18117047-18127400:+	6e-31	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	1.38e-21	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+coding	CHS.5286	chr10:2422155-2424587:-	1e-30	CAF17983.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.52984	chr8:23580879-23582853:+	6e-37	EHH21096.1, hypothetical protein EGK_04085, partial [Macaca mulatta]	1.27e-33	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.53037	chr8:26729245-26736168:-	1e-39	EHH61346.1, hypothetical protein EGM_19342, partial [Macaca fascicularis]	6.74e-32	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.5306	chr10:3314937-3318691:-	2e-48	EAW86486.1, hCG2042682, partial [Homo sapiens]	-	-
+discard	CHS.53104	chr8:29800318-29813778:+	6e-18	EAX05977.1, hCG2038848, partial [Homo sapiens]	-	-
+discard	CHS.53120	chr8:30185911-30191489:-	1e-32	EAW48919.1, hCG2028158, partial [Homo sapiens]	5.14e-23	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.53123	chr8:30305856-30319466:+	7e-17	EHH61346.1, hypothetical protein EGM_19342, partial [Macaca fascicularis]	4.47e-16	sp|Q8N9N2|ASCC1_HUMAN, Activating signal cointegrator 1 complex subunit 1 OS=Homo sapiens GN=ASCC1 PE=1 SV=1
+non-coding	CHS.53124	chr8:30361480-30372149:-	4e-45	AAG35515.1, PRO2550 [Homo sapiens]	2.23e-31	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+discard	CHS.53171	chr8:35020879-35056121:-	2e-25	CAF16073.1, unnamed protein product, partial [Homo sapiens]	3.52e-21	sp|A0A096LPI5|GVQW2_HUMAN, Protein GVQW2 OS=Homo sapiens GN=GVQW2 PE=4 SV=1
+discard	CHS.53220	chr8:38071564-38080475:-	2e-24	CAE89712.1, unnamed protein product [Homo sapiens]	9.61e-21	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.53352	chr8:48143497-48152309:+	2e-42	EHH59362.1, hypothetical protein EGM_09449, partial [Macaca fascicularis]	5.80e-35	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.53373	chr8:49040289-49043056:-	1e-21	EAX11198.1, hCG2039122, partial [Homo sapiens]	-	-
+discard	CHS.53425	chr8:54155509-54160435:+	5e-31	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	1.05e-24	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.53450	chr8:55827853-55874505:+	5e-24	BAB01630.1, unnamed portein product [Macaca fascicularis]	1.11e-20	sp|E7EU14|PP5D1_HUMAN, Protein PPP5D1 OS=Homo sapiens GN=PPP5D1 PE=2 SV=2
+coding	CHS.53541	chr8:61014964-61022813:+	1e-17	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	-	-
+discard	CHS.53938	chr8:92687309-92699350:-	2e-33	EHH54194.1, hypothetical protein EGM_14979, partial [Macaca fascicularis]	6.42e-28	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+discard	CHS.53976	chr8:94591787-94593849:+	2e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.54015	chr8:97559775-97596334:-	3e-16	EHH31407.1, hypothetical protein EGK_12471, partial [Macaca mulatta]	-	-
+non-coding	CHS.54101	chr8:101314130-101321362:+	8e-33	CAE91527.1, unnamed protein product [Homo sapiens]	2.59e-18	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.54193	chr8:107023200-107029634:+	1e-19	EHH27543.1, hypothetical protein EGK_17760, partial [Macaca mulatta]	-	-
+non-coding	CHS.54200	chr8:108102065-108102486:+	7e-37	AAF69654.1, PRO2822 [Homo sapiens]	9.96e-26	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.54337	chr8:121743568-121758192:-	2e-34	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	6.21e-21	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.54359	chr8:123313088-123319527:+	3e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.54390	chr8:124431317-124440741:-	6e-44	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.54391	chr8:124431349-124433182:+	2e-71	AAK21302.1, FKSG49 [Homo sapiens]	-	-
+non-coding	CHS.54457	chr8:127578461-127594077:+	8e-37	BAE91091.1, unnamed protein product [Macaca fascicularis]	5.07e-24	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.545	chr1:16237272-16240004:+	4e-24	CAF14435.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.54591	chr8:137734310-137762376:+	6e-33	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	8.70e-18	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.54608	chr8:140494326-140496492:+	1e-29	EHH16412.1, hypothetical protein EGK_11692, partial [Macaca mulatta]	2.04e-21	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.54648	chr8:141581573-141585919:+	3e-31	EAW92236.1, hCG1816797 [Homo sapiens]	-	-
+non-coding	CHS.54684	chr8:142979778-142981171:+	2e-37	EHH22373.1, hypothetical protein EGK_05619, partial [Macaca mulatta]	1.37e-25	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+coding	CHS.54697	chr8:143204219-143211462:+	-	-	2.40e-46	sp|Q03650|CRAM_TRYBB, Cysteine-rich, acidic integral membrane protein OS=Trypanosoma brucei brucei GN=CRAM PE=2 SV=1
+non-coding	CHS.54747	chr8:143897994-143905708:-	2e-22	BAE89171.1, unnamed protein product [Macaca fascicularis]	-	-
+non-coding	CHS.54807	chr8:144804595-144827215:-	6e-26	EHH22620.1, hypothetical protein EGK_05928, partial [Macaca mulatta]	3.25e-16	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.54820	chr8_KI270810v1_alt:272399-274526:-	3e-40	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.5483	chr10:8136203-8139124:+	1e-15	EAW99274.1, hCG2040594, partial [Homo sapiens]	-	-
+coding	CHS.54848	chr8_KI270814v1_alt:112537-116568:+	3e-36	BAK64036.1, hypothetical protein [Pan troglodytes]	-	-
+non-coding	CHS.54850	chr8_KI270815v1_alt:64295-67202:-	2e-18	BAK62683.1, hypothetical protein [Pan troglodytes]	-	-
+non-coding	CHS.54935	chr9:43941-57105:-	1e-23	EHH16041.1, hypothetical protein EGK_11270 [Macaca mulatta]	3.49e-20	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.54989	chr9:3750312-3759530:+	6e-22	EAW68204.1, hCG2033532 [Homo sapiens]	-	-
+discard	CHS.5499	chr10:8973528-8983557:+	3e-31	EHH21096.1, hypothetical protein EGK_04085, partial [Macaca mulatta]	9.71e-27	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+non-coding	CHS.55006	chr9:4759373-4760200:+	2e-26	EHH15935.1, hypothetical protein EGK_02111, partial [Macaca mulatta]	1.11e-19	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+discard	CHS.55046	chr9:6678950-6690584:-	2e-37	BAB93502.1, OK/SW-CL.41 [Homo sapiens]	1.46e-27	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.55081	chr9:13100302-13104974:+	7e-29	EHH14529.1, hypothetical protein EGK_00471, partial [Macaca mulatta]	6.29e-20	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+coding	CHS.55085	chr9:13738521-13808340:-	2e-45	CAF15144.1, unnamed protein product, partial [Homo sapiens]	1.03e-43	sp|Q53H47|SETMR_HUMAN, Histone-lysine N-methyltransferase SETMAR OS=Homo sapiens GN=SETMAR PE=1 SV=2
+discard	CHS.55132	chr9:16976738-16983427:-	3e-40	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.55154	chr9:19155572-19189379:+	2e-22	EHH15935.1, hypothetical protein EGK_02111, partial [Macaca mulatta]	-	-
+non-coding	CHS.552	chr1:16499368-16502081:+	9e-26	EHH22620.1, hypothetical protein EGK_05928, partial [Macaca mulatta]	-	-
+non-coding	CHS.55255	chr9:27069812-27081800:+	3e-23	BAB21923.1, hypothetical protein [Macaca fascicularis]	-	-
+coding	CHS.55276	chr9:29214303-29229151:+	8e-22	BAE87920.1, unnamed protein product [Macaca fascicularis]	-	-
+discard	CHS.553	chr1:16507911-16511384:-	5e-24	EHH24999.1, hypothetical protein EGK_08749, partial [Macaca mulatta]	1.78e-24	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.55311	chr9:33076869-33078855:-	3e-43	CAD69516.1, unnamed protein product [Homo sapiens]	2.15e-30	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.55346	chr9:34136129-34139021:+	5e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.55399	chr9:35597506-35604227:-	7e-40	CAF16253.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.55441	chr9:36570250-36572749:-	3e-35	EHH14529.1, hypothetical protein EGK_00471, partial [Macaca mulatta]	1.20e-25	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.55491	chr9:38650193-38662719:+	2e-25	CAE92120.1, unnamed protein product [Homo sapiens]	9.35e-20	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+coding	CHS.55510	chr9:40106725-40112253:+	5e-57	AAH24922.1, Unknown (protein for IMAGE:4345791), partial [Homo sapiens]	-	-
+coding	CHS.55537	chr9:41350774-41359374:-	1e-57	AAH24922.1, Unknown (protein for IMAGE:4345791), partial [Homo sapiens]	-	-
+discard	CHS.55546	chr9:41792677-41804606:+	8e-20	EHH20620.1, hypothetical protein EGK_03509, partial [Macaca mulatta]	-	-
+coding	CHS.55552	chr9:42724994-42726506:+	2e-46	XP_011782881.1, PREDICTED: uncharacterized protein LOC105501504 isoform X4 [Colobus angolensis palliatus]	8.42e-28	sp|A6NN06|U633A_HUMAN, Putative UPF0633 protein MGC21881 OS=Homo sapiens PE=5 SV=1
+coding	CHS.55578	chr9:61667260-61674924:-	6e-63	EAW80445.1, hCG1795400 [Homo sapiens]	-	-
+coding	CHS.55579	chr9:61672955-61677090:+	9e-43	CAI16776.1, family with sequence similarity 27, member E2 [Homo sapiens]	1.89e-40	sp|Q5T7N8|F27D1_HUMAN, Protein FAM27D1 OS=Homo sapiens GN=FAM27D1 PE=3 SV=2
+discard	CHS.55587	chr9:61957995-61961618:+	2e-18	XP_017823708.1, PREDICTED: protein GVQW1-like, partial [Callithrix jacchus]	-	-
+coding	CHS.55605	chr9:63040643-63043698:+	6e-16	ELK25717.1, hypothetical protein MDA_GLEAN10013964 [Myotis davidii]	-	-
+discard	CHS.55635	chr9:64911561-64926593:+	1e-16	CAF01714.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.55640	chr9:65384744-65392626:+	1e-73	CAI16776.1, family with sequence similarity 27, member E2 [Homo sapiens]	2.13e-50	sp|Q08E93|F27E3_HUMAN, Protein FAM27E3 OS=Homo sapiens GN=FAM27E3 PE=1 SV=1
+coding	CHS.55641	chr9:65385641-65392337:-	8e-40	XP_016792713.1, PREDICTED: LOW QUALITY PROTEIN: protein FAM27D1-like [Pan troglodytes]	8.51e-40	sp|Q5T7N8|F27D1_HUMAN, Protein FAM27D1 OS=Homo sapiens GN=FAM27D1 PE=3 SV=2
+discard	CHS.55654	chr9:65807446-65815335:-	6e-54	EAW51518.1, hCG2039129 [Homo sapiens]	2.64e-29	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+coding	CHS.55664	chr9:66264501-66269893:-	1e-57	AAH24922.1, Unknown (protein for IMAGE:4345791), partial [Homo sapiens]	-	-
+discard	CHS.55675	chr9:67382111-67393383:-	2e-17	EHH20620.1, hypothetical protein EGK_03509, partial [Macaca mulatta]	-	-
+discard	CHS.55679	chr9:67624898-67632551:+	2e-42	EHH20232.1, hypothetical protein EGK_03041, partial [Macaca mulatta]	2.40e-34	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.55750	chr9:72343592-72350103:+	4e-39	EHH53367.1, hypothetical protein EGM_13996, partial [Macaca fascicularis]	9.75e-29	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.55800	chr9:75183058-75195259:+	2e-34	EHH63636.1, hypothetical protein EGM_16643, partial [Macaca fascicularis]	4.31e-22	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.55830	chr9:78226927-78236019:-	2e-18	EAW78227.1, hCG1811714 [Homo sapiens]	-	-
+discard	CHS.55878	chr9:83064640-83075308:-	9e-31	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	4.83e-16	sp|A0A096LPI5|GVQW2_HUMAN, Protein GVQW2 OS=Homo sapiens GN=GVQW2 PE=4 SV=1
+non-coding	CHS.55887	chr9:83726863-83738912:-	8e-81	AAK08108.1, FKSG63 [Homo sapiens]	-	-
+non-coding	CHS.55909	chr9:85453503-85454436:+	1e-36	BAE91091.1, unnamed protein product [Macaca fascicularis]	9.72e-26	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+coding	CHS.55931	chr9:86751067-86758347:+	7e-46	EAW62720.1, hCG2036793 [Homo sapiens]	-	-
+discard	CHS.55987	chr9:88704359-88716625:+	6e-38	EHH20232.1, hypothetical protein EGK_03041, partial [Macaca mulatta]	2.26e-30	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.55993	chr9:88958724-88959545:-	1e-43	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+discard	CHS.5603	chr10:15497774-15510103:-	5e-27	BAC04924.1, unnamed protein product [Homo sapiens]	3.04e-24	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.56041	chr9:91188174-91199592:+	3e-28	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	8.16e-29	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.56045	chr9:91361657-91404994:+	8e-45	EAW56733.1, similar to zinc finger protein 569, isoform CRA_a [Homo sapiens]	7.12e-32	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.56086	chr9:93038355-93052001:-	7e-41	EHH60697.1, hypothetical protein EGM_18538, partial [Macaca fascicularis]	2.69e-31	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.56149	chr9:95563488-95567056:+	2e-37	NP_001310237.1, zinc finger protein 454 isoform 2 [Homo sapiens]	2.98e-21	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.56153	chr9:95756670-95759104:+	9e-22	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	1.33e-16	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.56165	chr9:96218614-96220266:+	8e-29	EHH15935.1, hypothetical protein EGK_02111, partial [Macaca mulatta]	9.55e-28	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.56176	chr9:96619963-96625501:+	3e-27	EAW48014.1, hCG2030582 [Homo sapiens]	2.64e-16	sp|E7EU14|PP5D1_HUMAN, Protein PPP5D1 OS=Homo sapiens GN=PPP5D1 PE=2 SV=2
+discard	CHS.56180	chr9:96742720-96751290:+	2e-30	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	7.21e-26	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.56217	chr9:97794616-97799080:+	6e-40	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+coding	CHS.56219	chr9:97799806-97804974:-	9e-31	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	1.23e-26	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.56232	chr9:98018148-98030665:+	1.15e-20	EHH50883.1, hypothetical protein EGM_01778, partial [Macaca fascicularis]	1.15e-20	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.56251	chr9:98907797-98943083:-	2e-23	AAG35479.1, PRO0898 [Homo sapiens]	-	-
+discard	CHS.56285	chr9:100392104-100394521:+	6e-40	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.56318	chr9:102443857-102497886:-	1e-26	XP_014411656.1, PREDICTED: protein CEBPZOS isoform X2 [Camelus ferus]	1.65e-24	sp|A8MTT3|CEBOS_HUMAN, Protein CEBPZOS OS=Homo sapiens GN=CEBPZOS PE=1 SV=2
+discard	CHS.56325	chr9:103325227-103327519:+	2e-26	EHH51808.1, hypothetical protein EGM_11255, partial [Macaca fascicularis]	2.55e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.56355	chr9:105020342-105065076:-	7e-40	AAG35515.1, PRO2550 [Homo sapiens]	1.67e-28	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.56361	chr9:105194785-105227169:-	1e-28	EHH27951.1, hypothetical protein EGK_18274, partial [Macaca mulatta]	1.43e-25	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+coding	CHS.56391	chr9:107252061-107262261:+	1e-67	BAD92674.1, similar to FKSG60, partial [Homo sapiens]	-	-
+non-coding	CHS.56392	chr9:107256097-107258084:-	5e-24	AAM46782.1, hepatocellular carcinoma-associated antigen HCA25a [Homo sapiens]	-	-
+discard	CHS.56393	chr9:107271175-107273075:-	5e-84	AAK21310.1, FKSG57 [Homo sapiens]	-	-
+discard	CHS.56394	chr9:107271175-107273141:+	1e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.56462	chr9:111485057-111485430:-	1e-25	EHH23662.1, hypothetical protein EGK_07177, partial [Macaca mulatta]	2.36e-21	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.56475	chr9:111807451-111823553:-	1e-22	EAW65432.1, hCG2038442, partial [Homo sapiens]	-	-
+discard	CHS.56476	chr9:111823736-111827207:+	1e-28	CAF17222.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.56481	chr9:111942479-111952702:-	8e-33	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	5.21e-29	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.56505	chr9:112890971-112899846:+	4e-22	ELR54012.1, hypothetical protein M91_03060, partial [Bos mutus]	-	-
+non-coding	CHS.56527	chr9:113380765-113382060:+	2e-43	EAW56733.1, similar to zinc finger protein 569, isoform CRA_a [Homo sapiens]	7.78e-34	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+discard	CHS.56561	chr9:114682121-114694946:+	3e-35	EHH64738.1, hypothetical protein EGM_18043, partial [Macaca fascicularis]	1.47e-30	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.56585	chr9:115939390-115964954:+	9e-26	CAE91723.1, unnamed protein product [Homo sapiens]	3.22e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.56662	chr9:122093483-122095428:+	8e-20	EHH51985.1, hypothetical protein EGM_12341, partial [Macaca fascicularis]	1.88e-17	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.56715	chr9:124173581-124222510:-	5e-40	EHH24426.1, hypothetical protein EGK_08082, partial [Macaca mulatta]	2.26e-29	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.56769	chr9:126286451-126298690:-	3e-27	EAW65432.1, hCG2038442, partial [Homo sapiens]	-	-
+discard	CHS.56794	chr9:127409597-127417651:-	1e-18	EHH59972.1, hypothetical protein EGM_10210, partial [Macaca fascicularis]	-	-
+discard	CHS.56851	chr9:128289578-128298526:-	4e-42	CAD69798.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.56862	chr9:128437418-128439464:+	5e-25	EHH27277.1, hypothetical protein EGK_17439, partial [Macaca mulatta]	1.13e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.56873	chr9:128700175-128702465:-	1e-29	BAB21923.1, hypothetical protein [Macaca fascicularis]	-	-
+discard	CHS.56924	chr9:129469596-129472073:+	1e-24	CAD33407.1, unnamed protein product [Homo sapiens]	8.88e-19	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.56935	chr9:129598815-129602964:-	6e-18	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	6.15e-17	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.56966	chr9:130540288-130547595:-	3e-33	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	8.05e-26	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.57002	chr9:131532506-131537717:-	2e-25	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	2.50e-16	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+discard	CHS.57118	chr9:135401027-135405769:-	6e-37	EHH57573.1, hypothetical protein EGM_07242, partial [Macaca fascicularis]	2.08e-33	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.5713	chr10:23422182-23425493:+	3e-32	CAE90318.1, unnamed protein product [Homo sapiens]	5.99e-25	sp|Q6B4Z3|UTY_PANTR, Histone demethylase UTY OS=Pan troglodytes GN=UTY PE=2 SV=1
+coding	CHS.57155	chr9:136124628-136126736:-	1e-23	EFB22320.1, hypothetical protein PANDA_013309, partial [Ailuropoda melanoleuca]	-	-
+non-coding	CHS.5716	chr10:23450784-23453129:+	2e-36	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	2.68e-25	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+non-coding	CHS.57172	chr9:136425336-136428567:+	3e-32	EHH60624.1, hypothetical protein EGM_12020, partial [Macaca fascicularis]	2.87e-26	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.57179	chr9:136556370-136561187:+	1e-36	EHH61346.1, hypothetical protein EGM_19342, partial [Macaca fascicularis]	6.04e-32	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.57190	chr9:136638248-136640156:+	4e-55	EAW81162.1, hCG1814203 [Homo sapiens]	4.12e-36	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+coding	CHS.57270	chr9:137295547-137314508:+	1e-15	XP_012364199.1, PREDICTED: torsin-4A [Nomascus leucogenys]	-	-
+discard	CHS.5728	chr10:24811045-24827773:+	4e-20	EHH60697.1, hypothetical protein EGM_18538, partial [Macaca fascicularis]	2.97e-19	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+coding	CHS.57293	chr9:138208379-138211074:+	7e-80	EAL23704.1, LOC389455 [Homo sapiens]	-	-
+discard	CHS.57307	chr9_KI270718v1_random:27438-35813:+	5e-34	EHH20736.1, hypothetical protein EGK_03652, partial [Macaca mulatta]	4.15e-28	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+coding	CHS.57336	chrUn_GL000214v1:122201-135863:-	9e-64	XP_008972665.1, PREDICTED: uncharacterized protein LOC103786519 [Pan paniscus]	-	-
+coding	CHS.57337	chrUn_GL000214v1:122712-137718:-	0.0	XP_016885660.1, PREDICTED: DNA-directed RNA polymerase II subunit RPB1-like [Homo sapiens]	-	-
+coding	CHS.57338	chrUn_GL000216v2:5180-10578:-	5e-17	CAF00752.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.57339	chrUn_GL000216v2:39261-42359:+	2e-19	EFB25698.1, hypothetical protein PANDA_003603, partial [Ailuropoda melanoleuca]	-	-
+coding	CHS.57340	chrUn_GL000216v2:68771-69849:+	2e-29	EFB25698.1, hypothetical protein PANDA_003603, partial [Ailuropoda melanoleuca]	-	-
+coding	CHS.57347	chrUn_GL000219v1:165770-176064:-	5e-34	EAW55841.1, hCG2038218, partial [Homo sapiens]	-	-
+coding	CHS.57350	chrUn_GL000224v1:2147-19387:-	0.0	XP_016885660.1, PREDICTED: DNA-directed RNA polymerase II subunit RPB1-like [Homo sapiens]	4.83e-18	sp|P14248|RPB1_PLAFD, DNA-directed RNA polymerase II subunit RPB1 OS=Plasmodium falciparum (isolate CDC / Honduras) GN=RPII PE=3 SV=1
+coding	CHS.57352	chrUn_GL000224v1:151548-161675:-	2e-29	EAW55841.1, hCG2038218, partial [Homo sapiens]	-	-
+coding	CHS.57353	chrUn_KI270303v1:23-1942:-	1e-32	ELR44476.1, hypothetical protein M91_20944, partial [Bos mutus]	-	-
+coding	CHS.57355	chrUn_KI270310v1:1-1201:-	7e-34	EGV91149.1, hypothetical protein I79_026257 [Cricetulus griseus]	-	-
+coding	CHS.57359	chrUn_KI270438v1:49583-110822:+	6e-26	CAF00816.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.57360	chrUn_KI270438v1:109180-112467:-	1e-26	ELR57875.1, hypothetical protein M91_02367, partial [Bos mutus]	-	-
+coding	CHS.57369	chrUn_KI270743v1:103338-106769:-	3e-45	EAW55841.1, hCG2038218, partial [Homo sapiens]	-	-
+coding	CHS.5738	chr10:25892398-25897380:-	2e-19	CAF16694.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.57388	chrUn_KI270753v1:11380-16327:-	1e-43	XP_007185635.1, PREDICTED: mucin-5AC-like [Balaenoptera acutorostrata scammoni]	-	-
+coding	CHS.57394	chrUn_KI270754v1:33798-40162:+	2e-49	CAH71857.1, novel protein [Homo sapiens]	1.14e-49	sp|Q5T7N8|F27D1_HUMAN, Protein FAM27D1 OS=Homo sapiens GN=FAM27D1 PE=3 SV=2
+coding	CHS.57395	chrUn_KI270754v1:35094-40147:-	7e-20	CAF00495.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.57409	chrX:1066565-1080088:-	2e-16	BAB01670.1, unnamed protein product [Macaca fascicularis]	-	-
+non-coding	CHS.57443	chrX:2657314-2668158:+	3e-26	EHH16412.1, hypothetical protein EGK_11692, partial [Macaca mulatta]	5.49e-21	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.57446	chrX:2817161-2824156:-	2e-35	EAW98704.1, hCG2042067, partial [Homo sapiens]	-	-
+discard	CHS.57469	chrX:5532211-5536669:+	9e-16	CCO13814.1, alternative protein SKA1 [Homo sapiens]	-	-
+discard	CHS.57535	chrX:12962700-12964382:+	3e-19	EAX05948.1, hCG2027609 [Homo sapiens]	-	-
+discard	CHS.57584	chrX:15275579-15281512:-	9e-17	BAE91211.1, unnamed protein product [Macaca fascicularis]	-	-
+non-coding	CHS.57658	chrX:20141943-20147653:+	5e-29	EHH16412.1, hypothetical protein EGK_11692, partial [Macaca mulatta]	6.63e-26	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.57669	chrX:21760094-21786486:-	1e-41	EAW56733.1, similar to zinc finger protein 569, isoform CRA_a [Homo sapiens]	3.65e-35	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.57687	chrX:23692424-23703583:+	8e-19	CAE91872.1, unnamed protein product [Homo sapiens]	1.19e-17	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+non-coding	CHS.57699	chrX:24092024-24095799:+	3e-19	BAK63765.1, long-chain-fatty-acid--CoA ligase 3 [Pan troglodytes]	-	-
+coding	CHS.57705	chrX:24311157-24319612:+	-	-	5.73e-18	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.57753	chrX:30600977-30607730:+	4e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.57808	chrX:39594289-39594915:+	3e-31	CAD69516.1, unnamed protein product [Homo sapiens]	4.53e-26	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.57909	chrX:47098996-47104800:+	3e-18	EAX08724.1, hCG2038303, partial [Homo sapiens]	-	-
+non-coding	CHS.57910	chrX:47104859-47107156:+	3e-24	CAF17222.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.5798	chr10:28921193-28926473:-	5e-34	EAW56745.1, zinc finger protein 30 homolog (mouse), partial [Homo sapiens]	2.86e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.57992	chrX:49102608-49111424:-	2e-30	EAW81162.1, hCG1814203 [Homo sapiens]	2.51e-24	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+non-coding	CHS.57993	chrX:49102609-49109879:+	3e-32	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+non-coding	CHS.58024	chrX:49884137-49894891:+	5e-35	BAB01630.1, unnamed portein product [Macaca fascicularis]	1.92e-30	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.58080	chrX:53502273-53505294:+	1e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.58086	chrX:53930018-53936082:+	1e-26	CAE93856.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.5820	chr10:29812319-29819222:+	8e-25	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	3.09e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.58238	chrX:71338940-71351122:+	4e-17	EAX06532.1, hCG2031845 [Homo sapiens]	-	-
+non-coding	CHS.58258	chrX:72177800-72179996:+	3e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.58259	chrX:72177845-72179997:-	5e-82	AAK08113.1, FKSG69 [Homo sapiens]	-	-
+discard	CHS.58293	chrX:74411759-74413185:-	9e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.58296	chrX:74556156-74573701:+	3e-23	EHH19897.1, hypothetical protein EGK_02637, partial [Macaca mulatta]	6.27e-16	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.58357	chrX:84863167-84876548:-	2e-29	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	-	-
+discard	CHS.58555	chrX:109734339-109739330:-	1e-15	XP_011936657.1, PREDICTED: LOW QUALITY PROTEIN: protein GVQW1-like [Cercocebus atys]	-	-
+discard	CHS.58623	chrX:118449967-118457488:-	3e-19	EHH16412.1, hypothetical protein EGK_11692, partial [Macaca mulatta]	4.15e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.58665	chrX:119876905-119884344:+	1e-24	XP_014202723.1, PREDICTED: protein GVQW1-like, partial [Pan paniscus]	3.96e-22	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.58666	chrX:119878397-119892434:+	3e-42	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	1.92e-40	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.58721	chrX:123733151-123736047:+	4e-39	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.58816	chrX:134523860-134535411:-	5e-26	EHH60624.1, hypothetical protein EGM_12020, partial [Macaca fascicularis]	2.74e-23	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+coding	CHS.58817	chrX:134523909-134532418:+	5e-31	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	3.63e-19	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.58829	chrX:134957544-134961405:+	2e-42	AAP34472.1, LP3428 [Homo sapiens]	-	-
+coding	CHS.58949	chrX:149379210-149415521:-	1e-40	XP_011745550.1, PREDICTED: spermatid nuclear transition protein 3-like [Macaca nemestrina]	-	-
+discard	CHS.58977	chrX:150960527-150967838:-	1e-27	EHH66749.1, hypothetical protein EGM_03798, partial [Macaca fascicularis]	1.73e-27	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.59084	chrX:154451762-154457939:+	6e-28	CAF16398.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.59135	chrX_KI270880v1_alt:8945-12348:+	9e-47	EHH17280.1, hypothetical protein EGK_13646, partial [Macaca mulatta]	9.76e-20	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.59143	chrX_KI270913v1_alt:101763-102651:+	5e-26	EHH20736.1, hypothetical protein EGK_03652, partial [Macaca mulatta]	4.40e-19	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.59184	chrY:3181376-3220764:-	5e-19	EHH59972.1, hypothetical protein EGM_10210, partial [Macaca fascicularis]	-	-
+coding	CHS.59253	chrY:11297415-11298241:-	5e-22	CAF00752.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.59337	chrY:22815955-22822521:-	7e-27	CAF15944.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.59372	chrY:56677927-56678468:+	5e-40	CCQ43978.1, alternative protein DYZ1L14 [Homo sapiens]	-	-
+coding	CHS.59373	chrY:56682661-56700981:+	8e-34	CCQ43977.1, alternative protein DYZ1L13 [Homo sapiens]	-	-
+coding	CHS.59375	chrY:56699417-56699988:+	7e-40	CCQ43978.1, alternative protein DYZ1L14 [Homo sapiens]	-	-
+coding	CHS.59378	chrY:56707793-56708089:+	8e-34	CCQ43977.1, alternative protein DYZ1L13 [Homo sapiens]	-	-
+coding	CHS.5966	chr10:38349478-38351376:+	5e-41	AAX11427.1, cell migration-inducing protein 20 [Homo sapiens]	-	-
+coding	CHS.5973	chr10:38525415-38529909:-	1e-26	ELR57875.1, hypothetical protein M91_02367, partial [Bos mutus]	-	-
+coding	CHS.5980	chr10:41854025-41854979:-	1e-27	EGV91139.1, hypothetical protein I79_026279 [Cricetulus griseus]	-	-
+coding	CHS.5982	chr10:41859680-41899716:+	6e-21	ELR44520.1, hypothetical protein M91_06754, partial [Bos mutus]	-	-
+coding	CHS.5984	chr10:41877814-41900596:+	4e-22	CAF00752.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.5987	chr10:41898310-41916265:+	1e-15	CAF00752.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.5988	chr10:41908997-41916246:-	4e-30	EFB25698.1, hypothetical protein PANDA_003603, partial [Ailuropoda melanoleuca]	-	-
+discard	CHS.5994	chr10:42401830-42406943:-	4e-19	EHH24426.1, hypothetical protein EGK_08082, partial [Macaca mulatta]	9.73e-18	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.6022	chr10:43409294-43417186:+	6e-21	CAF14539.1, unnamed protein product, partial [Homo sapiens]	-	-
+coding	CHS.6123	chr10:47414579-47418441:-	1e-102	XP_017360204.1, PREDICTED: spore coat assembly protein ExsA-like [Cebus capucinus imitator]	1.11e-27	sp|Q96WV6|YHU2_SCHPO, Uncharacterized threonine-rich GPI-anchored glycoprotein PJ4664.02 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=SPBPJ4664.02 PE=3 SV=1
+non-coding	CHS.6140	chr10:48004518-48009616:-	3e-42	EHH66747.1, hypothetical protein EGM_03796, partial [Macaca fascicularis]	5.61e-22	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+discard	CHS.6172	chr10:50010721-50014465:-	3e-25	EAW56745.1, zinc finger protein 30 homolog (mouse), partial [Homo sapiens]	6.71e-20	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.625	chr1:19260139-19264343:-	9e-77	XP_016855200.1, PREDICTED: aflatoxin B1 aldehyde reductase member 4-like [Homo sapiens]	-	-
+non-coding	CHS.6269	chr10:61493466-61496487:+	2e-23	BAE91091.1, unnamed protein product [Macaca fascicularis]	1.08e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.6349	chr10:68216380-68223583:-	3e-27	CAD69717.1, unnamed protein product [Homo sapiens]	7.56e-17	sp|Q96MD7|CI085_HUMAN, Uncharacterized protein C9orf85 OS=Homo sapiens GN=C9orf85 PE=1 SV=1
+non-coding	CHS.6350	chr10:68220585-68221496:+	1e-21	EHH21096.1, hypothetical protein EGK_04085, partial [Macaca mulatta]	8.82e-17	sp|Q8N976|YG039_HUMAN, Putative uncharacterized protein FLJ38264 OS=Homo sapiens PE=5 SV=1
+non-coding	CHS.6396	chr10:69991463-69992790:+	5e-85	AAK08107.1, FKSG62 [Homo sapiens]	-	-
+non-coding	CHS.6435	chr10:71374039-71381646:+	2e-31	EAW48919.1, hCG2028158, partial [Homo sapiens]	6.15e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.6445	chr10:71868689-71876690:+	3e-82	AAK08111.1, FKSG67 [Homo sapiens]	-	-
+non-coding	CHS.6455	chr10:72091960-72095828:-	9e-23	CAJ42808.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.6537	chr10:75184974-75200166:-	2e-31	BAH12795.1, unnamed protein product [Homo sapiens]	6.43e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+coding	CHS.6643	chr10:81870212-81875246:-	9e-69	XP_007960941.1, PREDICTED: atherin-like [Chlorocebus sabaeus]	-	-
+non-coding	CHS.6673	chr10:84572172-84576658:+	2e-29	BAB21923.1, hypothetical protein [Macaca fascicularis]	-	-
+coding	CHS.6678	chr10:85147911-85160353:+	3e-56	CAF15144.1, unnamed protein product, partial [Homo sapiens]	1.29e-54	sp|Q53H47|SETMR_HUMAN, Histone-lysine N-methyltransferase SETMAR OS=Homo sapiens GN=SETMAR PE=1 SV=2
+non-coding	CHS.6818	chr10:92369433-92370102:+	2e-23	AAX18642.1, cell growth-inhibiting protein 48b [Homo sapiens]	-	-
+discard	CHS.6832	chr10:93209848-93211757:-	2e-35	EAW85402.1, hCG1778978 [Homo sapiens]	1.02e-29	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.6856	chr10:93969164-93972012:-	2e-32	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	5.86e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.6857	chr10:93970030-93971938:+	4e-45	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.696	chr1:21387062-21390872:+	9e-38	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.7022	chr10:101695305-101701076:+	3e-30	CAF16051.2, unnamed protein product, partial [Homo sapiens]	1.90e-17	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.7181	chr10:110516070-110526800:-	3e-42	AAF69605.1, PRO1722 [Homo sapiens]	5.91e-33	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+coding	CHS.728	chr1:22534265-22539503:-	9e-25	CAF17927.1, unnamed protein product, partial [Homo sapiens]	-	-
+non-coding	CHS.7329	chr10:118782901-118790207:-	9e-19	EAW65432.1, hCG2038442, partial [Homo sapiens]	-	-
+discard	CHS.733	chr1:22663121-22665749:+	4e-29	CAE93856.1, unnamed protein product [Homo sapiens]	8.98e-19	sp|E7EU14|PP5D1_HUMAN, Protein PPP5D1 OS=Homo sapiens GN=PPP5D1 PE=2 SV=2
+discard	CHS.7350	chr10:119490677-119499062:-	3e-46	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	1.88e-36	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+non-coding	CHS.7390	chr10:121974881-121985226:+	4e-55	EHH53367.1, hypothetical protein EGM_13996, partial [Macaca fascicularis]	3.39e-37	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+coding	CHS.7402	chr10:122657410-122679518:+	7e-89	XP_005566708.1, PREDICTED: carbohydrate-binding protein AQN-1-like isoform X2 [Macaca fascicularis]	5.76e-37	sp|P35495|PSP1_PIG, Major seminal plasma glycoprotein PSP-I OS=Sus scrofa PE=1 SV=2
+non-coding	CHS.7504	chr10:126899041-126903345:+	7e-32	EHH27828.1, hypothetical protein EGK_18118, partial [Macaca mulatta]	1.21e-21	sp|Q8N7I0|GVQW1_HUMAN, Protein GVQW1 OS=Homo sapiens GN=GVQW1 PE=2 SV=1
+non-coding	CHS.7532	chr10:129398876-129404514:-	7e-28	EHH20620.1, hypothetical protein EGK_03509, partial [Macaca mulatta]	1.67e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.754	chr1:23424864-23428558:+	2e-32	EHH14529.1, hypothetical protein EGK_00471, partial [Macaca mulatta]	7.94e-24	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.7549	chr10:130213526-130252017:+	4e-17	EHH19897.1, hypothetical protein EGK_02637, partial [Macaca mulatta]	-	-
+non-coding	CHS.7698	chr11:507456-515187:-	5e-40	EHH64004.1, hypothetical protein EGM_17106, partial [Macaca fascicularis]	4.96e-38	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.7699	chr11:507473-518160:+	3e-38	EHH66747.1, hypothetical protein EGM_03796, partial [Macaca fascicularis]	3.99e-25	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.7713	chr11:630818-635345:-	6e-21	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	9.01e-22	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+discard	CHS.772	chr1:23703934-23724136:+	3e-18	CAE92120.1, unnamed protein product [Homo sapiens]	-	-
+non-coding	CHS.788	chr1:23935200-23939589:+	9e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.793	chr1:23989925-23995618:-	1e-23	AAM46782.1, hepatocellular carcinoma-associated antigen HCA25a [Homo sapiens]	-	-
+discard	CHS.7995	chr11:7096820-7099370:+	1e-30	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	7.91e-25	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.8040	chr11:8977591-8979517:+	3e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.8130	chr11:12596239-12596634:-	1e-28	EHH61898.1, hypothetical protein EGM_20022, partial [Macaca fascicularis]	8.64e-23	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+discard	CHS.8132	chr11:12662016-12666533:-	1e-44	EHH60270.1, hypothetical protein EGM_11598, partial [Macaca fascicularis]	4.52e-44	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.8140	chr11:13017076-13027103:+	6e-23	CAE93853.1, unnamed protein product [Homo sapiens]	6.69e-18	sp|Q9BUA6|MYL10_HUMAN, Myosin regulatory light chain 10 OS=Homo sapiens GN=MYL10 PE=2 SV=2
+discard	CHS.818	chr1:24704846-24726999:+	3e-16	BAB93502.1, OK/SW-CL.41 [Homo sapiens]	-	-
+discard	CHS.824	chr1:24873917-24877678:+	1e-23	EHH64647.1, hypothetical protein EGM_17921, partial [Macaca fascicularis]	3.90e-18	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.838	chr1:25200692-25201875:+	3e-16	CAE93856.1, unnamed protein product [Homo sapiens]	-	-
+discard	CHS.8380	chr11:32383982-32387108:-	1e-32	EHH66747.1, hypothetical protein EGM_03796, partial [Macaca fascicularis]	3.96e-22	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.841	chr1:25232605-25236138:-	9e-24	FAA00321.1, TPA: augmented in rheumatoid arthritis 2 [Homo sapiens]	-	-
+discard	CHS.8412	chr11:33953314-33990087:-	7e-30	EHH18952.1, hypothetical protein EGK_19543, partial [Macaca mulatta]	1.84e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+non-coding	CHS.852	chr1:25593211-25614127:-	2e-85	AAK08111.1, FKSG67 [Homo sapiens]	-	-
+discard	CHS.8633	chr11:47645294-47651739:+	4e-31	EHH25734.1, hypothetical protein EGK_15555, partial [Macaca mulatta]	1.05e-24	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.8639	chr11:47892387-47903606:+	2e-38	EHH20863.1, hypothetical protein EGK_03802, partial [Macaca mulatta]	1.93e-34	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+discard	CHS.8814	chr11:59698644-59704330:+	1e-43	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+coding	CHS.8823	chr11:59869007-59896477:+	8e-69	XP_008507703.1, PREDICTED: placenta-specific protein 1-like [Equus przewalskii]	-	-
+non-coding	CHS.8829	chr11:60072557-60073082:-	2e-39	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.8876	chr11:61165667-61168863:-	6e-43	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.8900	chr11:61644418-61653905:-	9e-38	NP_001310237.1, zinc finger protein 454 isoform 2 [Homo sapiens]	9.88e-23	sp|Q86U02|CN165_HUMAN, Putative uncharacterized protein encoded by LINC00596 OS=Homo sapiens GN=LINC00596 PE=5 SV=1
+discard	CHS.9024	chr11:63963767-63970179:-	2e-20	CAF14356.1, unnamed protein product, partial [Homo sapiens]	-	-
+discard	CHS.903	chr1:26595665-26597518:+	6e-42	EAW51232.1, hCG1820357 [Homo sapiens]	-	-
+discard	CHS.9108	chr11:65246380-65248058:+	1e-18	EAW60506.1, hCG2040996, partial [Homo sapiens]	-	-
+non-coding	CHS.9114	chr11:65333121-65333750:+	4e-35	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	8.94e-16	sp|Q8NEM8|CBPC3_HUMAN, Cytosolic carboxypeptidase 3 OS=Homo sapiens GN=AGBL3 PE=2 SV=2
+coding	CHS.9127	chr11:65476272-65478434:+	7e-66	XP_011719112.1, PREDICTED: basic proline-rich protein-like [Macaca nemestrina]	-	-
+coding	CHS.914	chr1:26817347-26819141:+	4e-22	AAM46782.1, hepatocellular carcinoma-associated antigen HCA25a [Homo sapiens]	-	-
+discard	CHS.9226	chr11:66587842-66589579:+	2e-41	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.9274	chr11:67443701-67447755:+	7e-35	EHH66747.1, hypothetical protein EGM_03796, partial [Macaca fascicularis]	1.02e-26	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.9318	chr11:68639989-68651860:-	5e-33	CAE91339.1, unnamed protein product [Homo sapiens]	9.28e-19	sp|Q8N2A0|CX062_HUMAN, Putative uncharacterized protein encoded by LINC00269 OS=Homo sapiens GN=LINC00269 PE=5 SV=1
+non-coding	CHS.9319	chr11:68640000-68644824:+	2e-21	BAC85249.1, unnamed protein product [Homo sapiens]	1.50e-18	sp|Q96CB5|CH044_HUMAN, Putative uncharacterized protein C8orf44 OS=Homo sapiens GN=C8orf44 PE=2 SV=2
+discard	CHS.9324	chr11:68852611-68862487:+	3e-44	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.9387	chr11:70455329-70457697:-	5e-33	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.9429	chr11:72287691-72291972:-	4e-28	EAW65432.1, hCG2038442, partial [Homo sapiens]	-	-
+non-coding	CHS.9516	chr11:75526062-75543426:+	1e-26	BAC04924.1, unnamed protein product [Homo sapiens]	4.05e-16	sp|E7EU14|PP5D1_HUMAN, Protein PPP5D1 OS=Homo sapiens GN=PPP5D1 PE=2 SV=2
+non-coding	CHS.9561	chr11:77484833-77491147:-	6e-82	AAK21302.1, FKSG49 [Homo sapiens]	-	-
+non-coding	CHS.9568	chr11:77650840-77656675:-	8e-31	EHH54758.1, hypothetical protein EGM_15654, partial [Macaca fascicularis]	1.24e-27	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.9657	chr11:86109431-86123326:+	8e-44	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.967	chr1:27852511-27855059:+	6e-37	AAP34472.1, LP3428 [Homo sapiens]	-	-
+discard	CHS.9671	chr11:86770204-86771462:-	3e-44	AAP34472.1, LP3428 [Homo sapiens]	-	-
+non-coding	CHS.9768	chr11:95084541-95089740:+	2e-29	EHH18371.1, hypothetical protein EGK_14950, partial [Macaca mulatta]	3.28e-24	sp|Q6UX73|CP089_HUMAN, UPF0764 protein C16orf89 OS=Homo sapiens GN=C16orf89 PE=1 SV=2
+non-coding	CHS.987	chr1:28345872-28346360:+	4e-36	EHH59533.1, hypothetical protein EGM_09670, partial [Macaca fascicularis]	8.99e-20	sp|Q8WTZ3|YS049_HUMAN, Zinc finger protein ENSP00000375192 OS=Homo sapiens PE=2 SV=1
+coding	CHS.9882	chr11:106106451-106109724:-	3e-35	CAF15144.1, unnamed protein product, partial [Homo sapiens]	9.56e-33	sp|Q53H47|SETMR_HUMAN, Histone-lysine N-methyltransferase SETMAR OS=Homo sapiens GN=SETMAR PE=1 SV=2
